@@ -27,7 +27,7 @@
 #home {
   min-width: 100%;
   min-height: 100vh;
-  background-image: url("../images/1125.jpg");
+  background-image: url("https://dl.dropboxusercontent.com/s/k59qxs8xguedvyt/1125.jpg?dl=0");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -120,9 +120,98 @@
 }
 
 /*about*/
-#about {
+#project {
   background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
   min-height: 100vh;
+}
+
+#project #project_icons {
+  padding-top: 35vh;
+}
+
+#project #project_icons .fa {
+  font-size: 2em;
+}
+
+#project #project_icons .fa:hover {
+  transform: scale(2);
+  color: white;
+  transition: all 400ms;
+}
+
+.btn:focus {
+  box-shadow: none;
+}
+
+.bttns {
+  padding-top: 35vh;
+}
+
+.bttn {
+  border: 1px solid white;
+  border-radius: 0;
+  outline: none;
+}
+
+.bttn:hover {
+  color: black;
+  background-color: white;
+  transition: all 400ms;
+}
+
+/*contact*/
+#contact {
+  min-height: 100vh;
+  background-image: linear-gradient(to right, #051937, #022846, #003754, #004761, #08576d);
+}
+
+#contact .fa {
+  font-size: 3em;
+  text-decoration: none;
+  color: white;
+  padding: 1rem;
+  text-shadow: -2px 14px 2px black;
+}
+
+#contact .fa:hover {
+  transform: scale(2);
+  transition-duration: 0.5s;
+}
+
+#contact .fa-github:hover {
+  color: black;
+}
+
+#contact .fa-facebook:hover {
+  color: #3b5998;
+}
+
+#contact .fa-linkedin:hover {
+  color: #007bb6;
+}
+
+#contact .fa-pinterest:hover {
+  color: #cb2027;
+}
+
+#contact .fa-twitter:hover {
+  color: #00aced;
+}
+
+#contact .fa-instagram:hover {
+  color: #fe4164;
+}
+
+#contact .fa-stack-overflow:hover {
+  color: #ef8236;
+}
+
+#contact .fa-codepen:hover {
+  color: yellow;
+}
+
+#contact .fa-quora:hover {
+  color: #a62100;
 }
 
 /*

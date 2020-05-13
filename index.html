@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sajid Shaikh</title>
+    <title>Shaikh Sajid</title>
    
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap-4.4.1-dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/jquery.pagepiling.css">
     <link rel="stylesheet" href="css/style.min.css">
-    
+    <script src="https://kit.fontawesome.com/5de3ed83f2.js"></script>    
 </head>
 <body>
    
@@ -34,11 +34,11 @@
                       <div class="container d-flex justify-content-center">
                     <div class="card">
                           
-                        <img src="images/sajid.jpg" alt="Profile Image" class="card-img-top">
+                        <img title="Sajid" src="https://dl.dropboxusercontent.com/s/cp6uwno1mcktbo2/sajid.jpg?dl=0" alt="Profile Image" class="card-img-top">
                         
                         <div class="card-body">
                             <h5 class="card-title text-center">
-                                Sajid Shaikh
+                                Shaikh Sajid
                             </h5>        
                           <h6 class="text-center developer" style="font-family: 'Open Sans', sans-serif;">Developer</h6>
                           <div id="skills" class="text-center text-white">
@@ -55,6 +55,7 @@
                             <span class="badge badge-pill"><a target="_blank" rel="noopener" href="https://djangoproject.com">Django</a></span>
                             <span class="badge badge-pill"><a target="_blank" rel="noopener" href="https://getbootstrap.com/">Bootstrap</a></span>
                             <span class="badge badge-pill"><a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/SQL">SQL</a></span>
+                            <!-- <span class="badge badge-pill"><a target="_blank" rel="noopener" href="http://expressjs.com/">Express.JS</a></span> -->
                             
                           </div>
                         
@@ -68,19 +69,155 @@
     </div>
         <!--page 2 ends-->
     
-    <div class="section"><div id="about">
+    <div class="section">
+        <div id="project">
         
-    </div></div>
-        <div class="section"></div>
+           
+            <div class="container text-center" id="project_icons">
+        <div class="row ">
+        <div class="col">    
+            <button class="btn fa fa-map" data-toggle = 'modal' data-target = '#ip_address_modal'></button>
+            <!--ip address locator modal-->
+         <div class="modal fade" id="ip_address_modal" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" >IP Address Locator</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur nam quam aliquid ipsam est tempore, necessitatibus ut perspiciatis, unde quaerat nesciunt labore quo dolores magni. Nisi tempora quae mollitia accusantium?
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--Ip adrress locator-->
+            <button class="btn fa fa-file" data-target="#text_editor_modal" data-toggle="modal"></button>
+              <!--text editor-->
+         <div class="modal fade" id="text_editor_modal" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" >Text Editor</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur nam quam aliquid ipsam est tempore, necessitatibus ut perspiciatis, unde quaerat nesciunt labore quo dolores magni. Nisi tempora quae mollitia accusantium?
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--Itext editor-->
+            <button class="btn fa fa-window-restore" data-target="#web_modal" data-toggle="modal"></button>
+        <!--web browser-->
+        <div class="modal fade" id="web_modal" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" >Web Browser</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur nam quam aliquid ipsam est tempore, necessitatibus ut perspiciatis, unde quaerat nesciunt labore quo dolores magni. Nisi tempora quae mollitia accusantium?
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        <!--Web browser-->
         
+        </div>
+        </div>
+        
+        <div class="row">
+            <div class="col">
+            <button class="btn fa fa-list-ul" data-target="#todo_modal" data-toggle="modal"></button>
+            <!--todo-->
+            <div class="modal fade" id="todo_modal" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" >To Do</h5>
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur nam quam aliquid ipsam est tempore, necessitatibus ut perspiciatis, unde quaerat nesciunt labore quo dolores magni. Nisi tempora quae mollitia accusantium?
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                      <button type="button" class="btn btn-primary">Save changes</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            <!--todo-->
+            <button class="btn fa fa-map-marker-alt"></button>
+            <button class="btn fa fa-mask"></button>
+        </div>
     </div>
-    
-    <script
-  src="https://code.jquery.com/jquery-3.4.1.min.js"
-  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-  crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
- <script src="js/jquery.pagepiling.min.js"></script>
+
+    <div class="row">
+        <div class="col">
+        <button class="btn fa fa-spider"></button>
+        <button class="btn fa fa-calculator"></button>
+        
+        </div>
+    </div>
+
+
+
+    </div>
+</div></div>
+
+
+        
+    <div class="section" id='contact'>
+        <div class="container-fluid">
+            <div class="container d-flex justify-content-center">
+        <div class="row">
+            <div class="col">
+                <a target="_blank" title="Follow Sajid on Github" href="https://github.com/shaikhsajid1111" class="fa fa-github"></a>
+                <a target="_blank" title="Follow Sajid on stackoverflow" href="https://stackoverflow.com/users/10282818/shaikh-sajid" class="fa fa-stack-overflow"></a>
+                <a target="_blank" title="Follow Sajid on Instagram" href="https://instagram.com/shaikhsajid1111" class="fa fa-instagram"></a>
+                <a target="_blank" title="Follow Sajid on LinkedIn" href="https://linkedin.com/in/shaikhsajid1111" class="fa fa-linkedin"></a>
+            </div>
+        </div>
+        <div class="row">    
+            <div class="col">
+                <a target="_blank" title="Follow Sajid On Facebook" href="https://facebook.com/shaikhsajid1111" class="fa fa-facebook"></a>
+                <a target="_blank" title="Follow Sajid On Twitter" href="https://twitter.com/shaikhsajid1111" class="fa fa-twitter"></a>
+                <a target="_blank" title="Follow Sajid On Pinterest" href="https://pinterest.com/shaikhsajid1111" class="fa fa-pinterest"></a>
+                <a target="_blank" title="Follow Sajid On Codepen" href="https://codepen.io/shaikhsajid1111" class="fa fa-codepen"></a>
+                <a target="_blank" title ='Follow Sajid On Quora'href="https://www.quora.com/profile/Sajid-Shaikh-417" class="fa fa-quora"></a>
+            </div>
+        
+        </div>        
+    </div>
+</div>   
+    </div>
+    </div>
+    <script src="js/jquery.js"></script>
+    <script src="bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
+    <script src="js/jquery.pagepiling.min.js"></script>
    
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
 
