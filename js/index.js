@@ -21,10 +21,7 @@ $(document).ready(function() {
         sectionSelector: '.section',
         animateAnchor: false,
     });
-    $(document).on('show.bs.modal', '.modal', function () {
-      $(this).appendTo('body');
-    });
-    
+  
 });
 
 particlesJS('home',{

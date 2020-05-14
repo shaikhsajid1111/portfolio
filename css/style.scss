@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Lato|Manrope|Montserrat|Open+Sans|Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Grand+Hotel&family=Norican&display=swap');
 @font-face {
     font-family: 'MagmawaveCaps-Bold';
     src: url('../fonts/MagmawaveCaps-Bold.woff2') format('woff2'),
@@ -12,6 +13,14 @@
          url('../fonts/Beauty and the Beast Sample.woff') format('woff'),
          url('../fonts/Beauty and the Beast Sample.ttf') format('truetype');
   }
+
+  @font-face {
+    font-family: 'moonbright';
+    src: url('../fonts/Moonbright Demo.woff2') format('woff2'),
+         url('../fonts/Moonbright Demo.woff') format('woff'),
+         url('../fonts/Moonbright Demo.ttf') format('truetype');
+  }
+
   .beauty-and-the-beast{
 	font-family: 'Beauty-and-the-beast',Arial, Helvetica, sans-serif;
 	font-size: 4em;
@@ -111,20 +120,21 @@ border-bottom-left-radius: 90px;
 #project{
 	background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
 	min-height: 100vh;
+	.view-button{
+		font-family: 'Ubuntu', sans-serif;
+	}
 	#project_icons{
 		padding-top: 35vh;
-		.fa{
-			font-size: 2em;
-			&:hover{
-				transform: scale(2);
-				color: white;
-				transition: all 400ms;;
-			}	
-		}
+		
 	}
-	
+}
+#project_container{
+	padding-top: 20vh;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 1.2em;
 	
 }
+
 .btn:focus {
 	box-shadow: none;
   }
@@ -142,6 +152,7 @@ border-bottom-left-radius: 90px;
 		transition: all 400ms;
 	}
 }
+
 /*contact*/
 #contact{
 	min-height: 100vh;
@@ -187,11 +198,20 @@ border-bottom-left-radius: 90px;
 		color: #a62100;
 	}
 }
-
+@media only screen and (min-width: 992px){
+	.view-button{
+		margin-top: 15vh;
+	}
+}
 /*
 font-family: 'Lato', sans-serif;
 font-family: 'Montserrat', sans-serif;
 font-family: 'Manrope', sans-serif;
 font-family: 'Open Sans', sans-serif;
 font-family: 'Ubuntu', sans-serif;
+*/
+/*
+font-family: 'Cookie', cursive;
+font-family: 'Grand Hotel', cursive;
+font-family: 'Norican', cursive;
 */
