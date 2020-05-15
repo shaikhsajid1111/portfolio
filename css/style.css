@@ -142,7 +142,7 @@
 #project_container {
   padding-top: 20vh;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.4em;
 }
 
 .btn:focus {
@@ -223,6 +223,12 @@
 @media only screen and (min-width: 992px) {
   .view-button {
     margin-top: 15vh;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  #project_container {
+    font-size: 1em;
   }
 }
 
