@@ -66,25 +66,22 @@
 }
 .card{
 	max-width: 20rem;
-	/*border-top-left-radius: 30%;
-	border-top-right-radius: 30%;
-	border-bottom-left-radius: 20%;
-	border-bottom-right-radius: 20%;*/
 	-moz-border-radius-topleft: 90px;
--webkit-border-top-left-radius: 90px;
- border-top-left-radius: 90px;
--moz-border-radius-topright: 78px;
--webkit-border-top-right-radius: 78px;
-border-top-right-radius: 78px;
--moz-border-radius-bottomright: 5px;
--webkit-border-bottom-right-radius: 5px;
-border-bottom-right-radius: 5px;
--moz-border-radius-bottomleft: 90px;
--webkit-border-bottom-left-radius: 90px;
-border-bottom-left-radius: 90px;
+	-webkit-border-top-left-radius: 90px;
+	 border-top-left-radius: 90px;
+	-moz-border-radius-topright: 78px;
+	-webkit-border-top-right-radius: 78px;
+	border-top-right-radius: 78px;
+	-moz-border-radius-bottomright: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	-moz-border-radius-bottomleft: 90px;
+	-webkit-border-bottom-left-radius: 90px;
+	border-bottom-left-radius: 90px;
 	-webkit-box-shadow: 6px 0px 30px -5px rgba(0,0,0,1);
 	-moz-box-shadow: 6px 0px 30px -5px rgba(0,0,0,1);
 	box-shadow: 6px 0px 30px -5px rgba(0,0,0,1);
+	transition: 0.8s linear;
 	&:hover{
 		-webkit-box-shadow: 0px 0px 38px 14px rgba(0,0,0,0.75);
 		-moz-box-shadow: 0px 0px 38px 14px rgba(0,0,0,0.75);
@@ -98,7 +95,9 @@ border-bottom-left-radius: 90px;
 }
 .developer::selection{
 	color: #004d7a;
+	
 }
+
 .card-title{
 	font-family: 'Ubuntu', sans-serif;	
 }
@@ -163,15 +162,19 @@ border-bottom-left-radius: 90px;
 		color: white;
 		padding: 1rem;	
 		text-shadow: -2px 14px 2px rgba(0, 0, 0, 1);
+		transition: 0.8s linear;
 		&:hover{
 			transform: scale(2);
-			transition-duration: 0.5s;			
+			transition: 0.7s linear;			
 		
 		}
 	}
 	.fa-github:hover{
 		color: black;
 		
+	}
+	.fa-envelope:hover{
+		color: 	#c71610;
 	}
 	.fa-facebook:hover{
 		color: #3b5998;
