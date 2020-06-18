@@ -1,4 +1,6 @@
-AOS.init({duration : 3000,     
+AOS.init({
+  duration : 3000,
+  once: true     
 });
 easing: 'ease-in-out-back'
 
@@ -14,15 +16,15 @@ scaleMobile: 1.00,
 
 })
 
-$(document).ready(function() {
-    
+$(document).ready(function(){
+  
     var typed = new Typed('#tag-dev', {
         strings:["Software ","Web "],
                    backSpeed: 50,
                    typeSpeed: 100,
                    loop: true,
-                   shuffle: true
-
+                  shuffle: true
+                 
       });
 
     
@@ -45,4 +47,4 @@ $(document).ready(function() {
 
 
   });
-
+/*circle*/
