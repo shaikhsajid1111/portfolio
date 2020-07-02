@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$('#pagepiling').pagepiling({
-        direction: 'horizontal',
+        direction: screen.width < 350 ? 'vertical' : 'horizontal',
         verticalCentered: true,
 
         scrollingSpeed: 50,
@@ -23,7 +23,7 @@ $(document).ready(function() {
     });
   
 });
-
+console.log(screen.width)
 particlesJS('home',{
   "particles": {
     "number": {

@@ -119,7 +119,25 @@
 }
 
 #card-container {
-  padding-top: 3%;
+  padding-top: 0.5em;
+}
+
+@media screen and (max-width: 480px) {
+  #card-container {
+    padding-top: 4%;
+  }
+  .card {
+    width: 19rem;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  #card-container {
+    padding-top: 9%;
+  }
+  .card {
+    width: 21rem;
+  }
 }
 
 /*about*/

@@ -66,6 +66,7 @@
 }
 .card{
 	max-width: 20rem;
+
 	-moz-border-radius-topleft: 90px;
 	-webkit-border-top-left-radius: 90px;
 	 border-top-left-radius: 90px;
@@ -80,6 +81,7 @@
 	border-bottom-left-radius: 90px;
 	-webkit-box-shadow: 6px 0px 30px -5px rgba(0,0,0,1);
 	-moz-box-shadow: 6px 0px 30px -5px rgba(0,0,0,1);
+	
 	box-shadow: 6px 0px 30px -5px rgba(0,0,0,1);
 	transition: 0.8s linear;
 	&:hover{
@@ -113,7 +115,23 @@
 	color: white;
 }
 #card-container{
-	padding-top: 3%;
+	padding-top: 0.5em;
+}
+@media screen and (max-width: 480px){
+	#card-container{
+		padding-top: 4%;
+	}
+	.card{
+		width: 19rem;
+	}
+}
+@media screen and (max-width: 1024px){
+	#card-container{
+		padding-top: 9%;
+	}
+	.card{
+		width: 21rem;
+	}
 }
 /*about*/
 #project{
@@ -211,6 +229,7 @@
 		font-size: 1em;
 	}
 }
+
 /*
 font-family: 'Lato', sans-serif;
 font-family: 'Montserrat', sans-serif;
