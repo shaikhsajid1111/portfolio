@@ -94,6 +94,7 @@
 .card-img-top{
 	border-radius: 19%;
 	cursor: pointer;
+	width: 100% !important;
 }
 .developer::selection{
 	color: #004d7a;
@@ -133,6 +134,9 @@
 		width: 21rem;
 	}
 }
+
+
+
 /*about*/
 #project{
 	background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
@@ -223,6 +227,9 @@
 	.view-button{
 		margin-top: 15vh;
 	}
+	.card{
+		max-width: 20rem;
+	}	
 }
 @media only screen and (max-width: 320px){
 	#project_container{

@@ -1,6 +1,8 @@
 $(document).ready(function() {
-	$('#pagepiling').pagepiling({
-        direction: screen.width < 350 ? 'vertical' : 'horizontal',
+  var options = ['horizontal','vertical'];
+  $('#pagepiling').pagepiling({
+            
+        direction: screen.width < 400 ? 'vertical' : options[Math.floor(Math.random()*options.length)],
         verticalCentered: true,
 
         scrollingSpeed: 50,
@@ -10,7 +12,7 @@ $(document).ready(function() {
         css3: true,
         navigation: {
             'textColor': '#000',
-            'bulletsColor': '#000',
+            'bulletsColor': '#fff',
             'position': 'right',
             'tooltips': ['Home', 'About', 'Projects', 'Contact']
         },
