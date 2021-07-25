@@ -1,7 +1,7 @@
 $(document).ready(function() {
   var options = ['horizontal','vertical'];
   $('#pagepiling').pagepiling({
-            
+
         direction: screen.width < 400 ? 'vertical' : options[Math.floor(Math.random()*options.length)],
         verticalCentered: true,
 
@@ -23,9 +23,9 @@ $(document).ready(function() {
         sectionSelector: '.section',
         animateAnchor: false,
     });
-  
+
 });
-console.log(screen.width)
+
 particlesJS('home',{
   "particles": {
     "number": {
