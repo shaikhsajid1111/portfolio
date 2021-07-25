@@ -1,16 +1,26 @@
+/*
+* Stylesheet for shaikhsajid.tk
+* author : Sajid Shaikh
+*/
 @import url("https://fonts.googleapis.com/css?family=Lato|Manrope|Montserrat|Open+Sans|Ubuntu&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Cookie&family=Grand+Hotel&family=Norican&display=swap");
 @font-face {
   font-family: "MagmawaveCaps-Bold";
-  src: url("../fonts/MagmawaveCaps-Bold.woff2") format("woff2"), url("../fonts/MagmawaveCaps-Bold.woff") format("woff"), url("../fonts/MagmawaveCaps-Bold.ttf") format("truetype");
+  src: url("../fonts/MagmawaveCaps-Bold.woff2") format("woff2"),
+    url("../fonts/MagmawaveCaps-Bold.woff") format("woff"),
+    url("../fonts/MagmawaveCaps-Bold.ttf") format("truetype");
 }
 @font-face {
   font-family: "Beauty-and-the-beast";
-  src: url("../fonts/Beauty and the Beast Sample.woff2") format("woff2"), url("../fonts/Beauty and the Beast Sample.woff") format("woff"), url("../fonts/Beauty and the Beast Sample.ttf") format("truetype");
+  src: url("../fonts/Beauty and the Beast Sample.woff2") format("woff2"),
+    url("../fonts/Beauty and the Beast Sample.woff") format("woff"),
+    url("../fonts/Beauty and the Beast Sample.ttf") format("truetype");
 }
 @font-face {
   font-family: "moonbright";
-  src: url("../fonts/Moonbright Demo.woff2") format("woff2"), url("../fonts/Moonbright Demo.woff") format("woff"), url("../fonts/Moonbright Demo.ttf") format("truetype");
+  src: url("../fonts/Moonbright Demo.woff2") format("woff2"),
+    url("../fonts/Moonbright Demo.woff") format("woff"),
+    url("../fonts/Moonbright Demo.ttf") format("truetype");
 }
 .beauty-and-the-beast {
   font-family: "Beauty-and-the-beast", Arial, Helvetica, sans-serif;
@@ -19,11 +29,11 @@
 }
 
 .beauty-and-the-beast::-moz-selection {
-  color: #D16BA5;
+  color: #d16ba5;
 }
 
 .beauty-and-the-beast::selection {
-  color: #D16BA5;
+  color: #d16ba5;
 }
 
 .quark-cheese {
@@ -47,6 +57,8 @@
 }
 .text-container:hover {
   text-shadow: -2px 3px 3px #969696;
+  -webkit-transition: all 200ms;
+  -o-transition: all 200ms;
   transition: all 200ms;
 }
 
@@ -64,7 +76,32 @@
 
 /*work*/
 #work {
-  background-image: linear-gradient(to right top, #f80fb1, #c268ec, #7591ff, #01acff, #12bceb);
+  background-image: -webkit-gradient(
+    linear,
+    left bottom,
+    right top,
+    from(#f80fb1),
+    color-stop(#c268ec),
+    color-stop(#7591ff),
+    color-stop(#01acff),
+    to(#12bceb)
+  );
+  background-image: -o-linear-gradient(
+    left bottom,
+    #f80fb1,
+    #c268ec,
+    #7591ff,
+    #01acff,
+    #12bceb
+  );
+  background-image: linear-gradient(
+    to right top,
+    #f80fb1,
+    #c268ec,
+    #7591ff,
+    #01acff,
+    #12bceb
+  );
   min-height: 100vh;
 }
 
@@ -74,11 +111,17 @@
   border-top-right-radius: 78px;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 90px;
+  -webkit-box-shadow: 6px 0px 30px -5px black;
   box-shadow: 6px 0px 30px -5px black;
+  -webkit-transition: 0.8s linear;
+  -o-transition: 0.8s linear;
   transition: 0.8s linear;
 }
 .card:hover {
+  -webkit-box-shadow: 0px 0px 38px 14px rgba(0, 0, 0, 0.75);
   box-shadow: 0px 0px 38px 14px rgba(0, 0, 0, 0.75);
+  -webkit-transition: all 1000ms;
+  -o-transition: all 1000ms;
   transition: all 1000ms;
 }
 
@@ -112,11 +155,11 @@
   background-color: #7591ff;
   font-family: "Montserrat", sans-serif;
 }
-.badge:hover > a{
+.badge:hover > a {
   color: #0275d8 !important;
   background-color: white;
 }
-.badge:hover{
+.badge:hover {
   background-color: white;
 }
 .badge a {
@@ -148,7 +191,32 @@
 }
 /*about*/
 #project {
-  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  background-image: -webkit-gradient(
+    linear,
+    left bottom,
+    right top,
+    from(#051937),
+    color-stop(#004d7a),
+    color-stop(#008793),
+    color-stop(#00bf72),
+    to(#a8eb12)
+  );
+  background-image: -o-linear-gradient(
+    left bottom,
+    #051937,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  );
+  background-image: linear-gradient(
+    to right top,
+    #051937,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  );
   min-height: 100vh;
 }
 #project .view-button {
@@ -157,13 +225,22 @@
 #project #project_icons {
   padding-top: 35vh;
 }
-#project .view-button{
+#project .view-button {
   padding: 1.1em;
   border-radius: 2em;
   border: none;
   cursor: pointer;
   font-family: "Ubuntu", sans-serif;
   background-color: white;
+  background: -webkit-gradient(
+      linear,
+      right top,
+      left top,
+      color-stop(50%, white),
+      color-stop(50%, #64d9ad)
+    )
+    right;
+  background: -o-linear-gradient(right, white 50%, #64d9ad 50%) right;
   background: linear-gradient(to left, white 50%, #64d9ad 50%) right;
   background-size: 200%;
   transition: 0.5s ease-out;
@@ -172,8 +249,8 @@
   -ms-transition: 0.5s ease-out;
   -o-transition: 0.5s ease-out;
 }
-#project .view-button:hover{
-   background-position: left;
+#project .view-button:hover {
+  background-position: left;
   color: white;
 }
 #project_container {
@@ -183,6 +260,7 @@
 }
 
 .btn:focus {
+  -webkit-box-shadow: none;
   box-shadow: none;
 }
 
@@ -198,13 +276,40 @@
 .bttn:hover {
   color: black;
   background-color: white;
+  -webkit-transition: all 400ms;
+  -o-transition: all 400ms;
   transition: all 400ms;
 }
 
 /*contact*/
 #contact {
   min-height: 100vh;
-  background-image: linear-gradient(to right, #051937, #022846, #003754, #004761, #08576d);
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(#051937),
+    color-stop(#022846),
+    color-stop(#003754),
+    color-stop(#004761),
+    to(#08576d)
+  );
+  background-image: -o-linear-gradient(
+    left,
+    #051937,
+    #022846,
+    #003754,
+    #004761,
+    #08576d
+  );
+  background-image: linear-gradient(
+    to right,
+    #051937,
+    #022846,
+    #003754,
+    #004761,
+    #08576d
+  );
 }
 #contact .fa {
   font-size: 3em;
@@ -212,10 +317,16 @@
   color: white;
   padding: 1rem;
   text-shadow: -2px 14px 2px black;
+  -webkit-transition: 0.8s linear;
+  -o-transition: 0.8s linear;
   transition: 0.8s linear;
 }
 #contact .fa:hover {
+  -webkit-transform: scale(2);
+  -ms-transform: scale(2);
   transform: scale(2);
+  -webkit-transition: 0.7s linear;
+  -o-transition: 0.7s linear;
   transition: 0.7s linear;
 }
 #contact .fa-github:hover {
