@@ -4,24 +4,28 @@
 */
 @import url("https://fonts.googleapis.com/css?family=Lato|Manrope|Montserrat|Open+Sans|Ubuntu&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Cookie&family=Grand+Hotel&family=Norican&display=swap");
+
 @font-face {
   font-family: "MagmawaveCaps-Bold";
   src: url("../fonts/MagmawaveCaps-Bold.woff2") format("woff2"),
     url("../fonts/MagmawaveCaps-Bold.woff") format("woff"),
     url("../fonts/MagmawaveCaps-Bold.ttf") format("truetype");
 }
+
 @font-face {
   font-family: "Beauty-and-the-beast";
   src: url("../fonts/Beauty and the Beast Sample.woff2") format("woff2"),
     url("../fonts/Beauty and the Beast Sample.woff") format("woff"),
     url("../fonts/Beauty and the Beast Sample.ttf") format("truetype");
 }
+
 @font-face {
   font-family: "moonbright";
   src: url("../fonts/Moonbright Demo.woff2") format("woff2"),
     url("../fonts/Moonbright Demo.woff") format("woff"),
     url("../fonts/Moonbright Demo.ttf") format("truetype");
 }
+
 .beauty-and-the-beast {
   font-family: "Beauty-and-the-beast", Arial, Helvetica, sans-serif;
   font-size: 4em;
@@ -42,7 +46,7 @@
 }
 
 #home {
-  min-width: 100%;
+  min-width: 100vw;
   min-height: 100vh;
   background-image: url("https://dl.dropboxusercontent.com/s/k59qxs8xguedvyt/1125.jpg?dl=0");
   background-position: center;
@@ -55,6 +59,7 @@
   z-index: -9999;
   text-shadow: -3px 4px 3px #969696;
 }
+
 .text-container:hover {
   text-shadow: -2px 3px 3px #969696;
   -webkit-transition: all 200ms;
@@ -76,59 +81,80 @@
 
 /*work*/
 #work {
-  background-image: -webkit-gradient(
-    linear,
-    left bottom,
-    right top,
-    from(#f80fb1),
-    color-stop(#c268ec),
-    color-stop(#7591ff),
-    color-stop(#01acff),
-    to(#12bceb)
-  );
-  background-image: -o-linear-gradient(
-    left bottom,
-    #f80fb1,
-    #c268ec,
-    #7591ff,
-    #01acff,
-    #12bceb
-  );
-  background-image: linear-gradient(
-    to right top,
-    #f80fb1,
-    #c268ec,
-    #7591ff,
-    #01acff,
-    #12bceb
-  );
+  background: #536976;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #292E49, #536976);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #292E49, #536976);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   min-height: 100vh;
+
+}
+
+#experience {
+  min-height: 100vh;
+  width: 100%;
+  padding-top: 15%;
+  background: #11998e;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #38ef7d, #11998e);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #38ef7d, #11998e);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.modal-backdrop {
+  z-index: -1;
+}
+
+.text-ubuntu {
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .card {
-  max-width: 20rem;
-  border-top-left-radius: 90px;
-  border-top-right-radius: 78px;
+  border-top-right-radius: 80px;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 90px;
-  -webkit-box-shadow: 6px 0px 30px -5px black;
-  box-shadow: 6px 0px 30px -5px black;
+  -webkit-box-shadow: 0px 0px 38px 1px black;
+  box-shadow: 0px 0px 38px 1px black;
   -webkit-transition: 0.8s linear;
   -o-transition: 0.8s linear;
   transition: 0.8s linear;
 }
+
 .card:hover {
-  -webkit-box-shadow: 0px 0px 38px 14px rgba(0, 0, 0, 0.75);
-  box-shadow: 0px 0px 38px 14px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 2px 0px 20px -1px white;
+  box-shadow: 2px 0px 20px -1px white;
   -webkit-transition: all 1000ms;
   -o-transition: all 1000ms;
   transition: all 1000ms;
 }
 
-.card-img-top {
-  border-radius: 19%;
+.card-text {
+  padding: 2%;
+}
+
+.skill {
+  font-size: 2.4em;
+  cursor: pointer;
+  color: white;
+  text-shadow: 0px 5px 5px black;
+  -webkit-transition: 0.8s linear;
+  -o-transition: 0.8s linear;
+  transition: 0.8s linear;
+
+}
+
+.about-text {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.card-img {
+  border-top-right-radius: 4rem;
+  border-bottom-right-radius: 0.25rem;
+  border-bottom-left-radius: 3rem;
   cursor: pointer;
   width: 100% !important;
+
 }
 
 .developer::-moz-selection {
@@ -155,91 +181,74 @@
   background-color: #7591ff;
   font-family: "Montserrat", sans-serif;
 }
-.badge:hover > a {
+
+.badge:hover>a {
   color: #0275d8 !important;
   background-color: white;
 }
+
 .badge:hover {
   background-color: white;
 }
+
 .badge a {
   text-decoration: none;
   color: white;
 }
 
 #card-container {
-  padding-top: 4%;
+  padding-top: 10%;
 }
 
-@media screen and (max-width: 480px) {
-  #card-container {
-    padding-top: 4%;
-  }
 
-  .card {
-    width: 19rem;
-  }
-}
-@media screen and (max-width: 1024px) {
-  #card-container {
-    padding-top: 15%;
-  }
 
-  .card {
-    width: 21rem;
-  }
-}
+
+
 /*about*/
 #project {
-  background-image: -webkit-gradient(
-    linear,
-    left bottom,
-    right top,
-    from(#051937),
-    color-stop(#004d7a),
-    color-stop(#008793),
-    color-stop(#00bf72),
-    to(#a8eb12)
-  );
-  background-image: -o-linear-gradient(
-    left bottom,
-    #051937,
-    #004d7a,
-    #008793,
-    #00bf72,
-    #a8eb12
-  );
-  background-image: linear-gradient(
-    to right top,
-    #051937,
-    #004d7a,
-    #008793,
-    #00bf72,
-    #a8eb12
-  );
+  background-image: -webkit-gradient(linear,
+      left bottom,
+      right top,
+      from(#051937),
+      color-stop(#004d7a),
+      color-stop(#008793),
+      color-stop(#00bf72),
+      to(#a8eb12));
+  background-image: -o-linear-gradient(left bottom,
+      #051937,
+      #004d7a,
+      #008793,
+      #00bf72,
+      #a8eb12);
+  background-image: linear-gradient(to right top,
+      #051937,
+      #004d7a,
+      #008793,
+      #00bf72,
+      #a8eb12);
   min-height: 100vh;
 }
-#project .view-button {
+
+.view-button {
   font-family: "Ubuntu", sans-serif;
 }
+
 #project #project_icons {
   padding-top: 35vh;
 }
-#project .view-button {
+
+.view-button {
   padding: 1.1em;
   border-radius: 2em;
   border: none;
   cursor: pointer;
   font-family: "Ubuntu", sans-serif;
   background-color: white;
-  background: -webkit-gradient(
-      linear,
+  background: -webkit-gradient(linear,
       right top,
       left top,
       color-stop(50%, white),
-      color-stop(50%, #64d9ad)
-    )
-    right;
+      color-stop(50%, #64d9ad)) right;
   background: -o-linear-gradient(right, white 50%, #64d9ad 50%) right;
   background: linear-gradient(to left, white 50%, #64d9ad 50%) right;
   background-size: 200%;
@@ -249,10 +258,12 @@
   -ms-transition: 0.5s ease-out;
   -o-transition: 0.5s ease-out;
 }
-#project .view-button:hover {
+
+.view-button:hover {
   background-position: left;
   color: white;
 }
+
 #project_container {
   padding-top: 20vh;
   font-family: "Ubuntu", sans-serif;
@@ -273,6 +284,7 @@
   border-radius: 0;
   outline: none;
 }
+
 .bttn:hover {
   color: black;
   background-color: white;
@@ -284,33 +296,28 @@
 /*contact*/
 #contact {
   min-height: 100vh;
-  background-image: -webkit-gradient(
-    linear,
-    left top,
-    right top,
-    from(#051937),
-    color-stop(#022846),
-    color-stop(#003754),
-    color-stop(#004761),
-    to(#08576d)
-  );
-  background-image: -o-linear-gradient(
-    left,
-    #051937,
-    #022846,
-    #003754,
-    #004761,
-    #08576d
-  );
-  background-image: linear-gradient(
-    to right,
-    #051937,
-    #022846,
-    #003754,
-    #004761,
-    #08576d
-  );
+  background-image: -webkit-gradient(linear,
+      left top,
+      right top,
+      from(#051937),
+      color-stop(#022846),
+      color-stop(#003754),
+      color-stop(#004761),
+      to(#08576d));
+  background-image: -o-linear-gradient(left,
+      #051937,
+      #022846,
+      #003754,
+      #004761,
+      #08576d);
+  background-image: linear-gradient(to right,
+      #051937,
+      #022846,
+      #003754,
+      #004761,
+      #08576d);
 }
+
 #contact .fa {
   font-size: 3em;
   text-decoration: none;
@@ -321,6 +328,7 @@
   -o-transition: 0.8s linear;
   transition: 0.8s linear;
 }
+
 #contact .fa:hover {
   -webkit-transform: scale(2);
   -ms-transform: scale(2);
@@ -329,51 +337,78 @@
   -o-transition: 0.7s linear;
   transition: 0.7s linear;
 }
+
 #contact .fa-github:hover {
   color: black;
 }
+
 #contact .fa-envelope:hover {
   color: #c71610;
 }
+
 #contact .fa-facebook:hover {
   color: #3b5998;
 }
+
 #contact .fa-linkedin:hover {
   color: #007bb6;
 }
+
 #contact .fa-pinterest:hover {
   color: #cb2027;
 }
+
 #contact .fa-twitter:hover {
   color: #00aced;
 }
+
 #contact .fa-instagram:hover {
   color: #fe4164;
 }
+
 #contact .fa-stack-overflow:hover {
   color: #ef8236;
 }
+
 #contact .fa-codepen:hover {
   color: yellow;
 }
+
 #contact .fa-quora:hover {
   color: #a62100;
 }
 
-@media only screen and (min-width: 992px) {
-  .view-button {
-    margin-top: 15vh;
-  }
 
-  .card {
-    max-width: 20rem;
-  }
-}
+
 @media only screen and (max-width: 320px) {
+
+  /*screen < 320px*/
   #project_container {
     font-size: 1em;
   }
 }
+
+@media only screen and (min-width: 992px) {
+
+  /*320 - 922*/
+  .card {
+    max-width: 20rem;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+
+  /*992 - 1024*/
+  #card-container {
+    padding-top: 15%;
+  }
+
+}
+
+.font-montserrat{
+  font-family: 'Montserrat', sans-serif;
+}
+
 /*
 font-family: 'Lato', sans-serif;
 font-family: 'Montserrat', sans-serif;
@@ -386,3 +421,46 @@ font-family: 'Cookie', cursive;
 font-family: 'Grand Hotel', cursive;
 font-family: 'Norican', cursive;
 */
+
+.horizontal-timeline .items {
+  border-top: 3px solid #e9ecef;
+}
+
+.horizontal-timeline .items .items-list {
+  display: block;
+  position: relative;
+  text-align: center;
+  padding-top: 70px;
+  margin-right: 0;
+}
+
+.horizontal-timeline .items .items-list:before {
+  content: "";
+  position: absolute;
+  height: 36px;
+  border-right: 2px dashed #dee2e6;
+  top: 0;
+}
+
+.horizontal-timeline .items .items-list .event-date {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  right: 0;
+  width: 75px;
+  margin: 0 auto;
+  font-size: .9rem;
+  padding-top: 8px;
+}
+
+@media (min-width: 1140px) {
+  .horizontal-timeline .items .items-list {
+    display: inline-block;
+    width: 24%;
+    padding-top: 45px;
+  }
+
+  .horizontal-timeline .items .items-list .event-date {
+    top: -40px;
+  }
+}
