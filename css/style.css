@@ -426,6 +426,14 @@
   /*992 - 1024*/
   #card-container {
     padding-top: 15%;
+
+  }
+
+  .horizontal-timeline,
+  .card,
+  .skills-container {
+    max-height: 100vh;
+    overflow-y: scroll;
   }
 
 }
@@ -446,6 +454,7 @@ font-family: 'Cookie', cursive;
 font-family: 'Grand Hotel', cursive;
 font-family: 'Norican', cursive;
 */
+
 
 .horizontal-timeline .items {
   border-top: 3px solid #e9ecef;
@@ -474,11 +483,11 @@ font-family: 'Norican', cursive;
   right: 0;
   width: 75px;
   margin: 0 auto;
-  font-size: .9rem;
   padding-top: 8px;
 }
 
-@media (min-width: 1140px) {
+
+@media (min-width: 1024px) {
   .horizontal-timeline .items .items-list {
     display: inline-block;
     width: 24%;
