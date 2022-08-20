@@ -14,14 +14,14 @@ $(document).ready(function () {
       'textColor': '#000',
       'bulletsColor': '#fff',
       'position': 'right',
-      'tooltips': ['Home', 'About','Experience', 'Skills','Projects', 'Contact']
+      'tooltips': ['Home', 'About', 'Experience', 'Skills', 'Projects', 'Contact']
     },
-    normalScrollElements: null,
     normalScrollElementTouchThreshold: 5,
     touchSensitivity: 5,
     keyboardScrolling: true,
     sectionSelector: '.section',
     animateAnchor: false,
+    normalScrollElements: screen.width < 1024 ? ['.horizontal-timeline', '.card', '#skills_container'] : null
   });
 
 });
