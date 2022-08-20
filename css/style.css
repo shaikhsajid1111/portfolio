@@ -82,11 +82,11 @@
 /*work*/
 #work {
   background: #536976;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #292E49, #536976);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #292E49, #536976);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #292E49, #536976);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #292E49, #536976);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   min-height: 100vh;
 
 }
@@ -96,12 +96,13 @@
   width: 100%;
   padding-top: 15%;
   background: #11998e;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #38ef7d, #11998e);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #38ef7d, #11998e);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #38ef7d, #11998e);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #38ef7d, #11998e);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
+
 .modal-backdrop {
   z-index: -1;
 }
@@ -178,13 +179,13 @@
 }
 
 .badge {
-  background-color: #7591ff;
   font-family: "Montserrat", sans-serif;
 }
 
 .badge:hover>a {
   color: #0275d8 !important;
   background-color: white;
+  cursor: pointer;
 }
 
 .badge:hover {
@@ -200,12 +201,44 @@
   padding-top: 10%;
 }
 
+#projects {
+  padding-top: 5%;
+}
 
+#projects .repo-card {
+  border-radius: 1.5em;
+  padding: 0.1em;
+  height: auto;
+  -webkit-box-shadow: 10px 4px 5px -7px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 4px 5px -7px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 4px 5px -7px rgba(0, 0, 0, 0.75);
+  transition: 1s ease-out;
+  -webkit-transition: 1s ease-out;
+  -moz-transition: 1s ease-out;
+  -ms-transition: 1s ease-out;
+  -o-transition: 1s ease-out;
+}
 
+#projects .repo-card:hover {
+  -webkit-box-shadow: 10px 10px 43px -7px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 43px -7px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 43px -7px rgba(0, 0, 0, 0.75);
+
+}
+
+#projects {
+  background: #348F50;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #56B4D3, #348F50);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #56B4D3, #348F50);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  min-height: 100vh;
+}
 
 
 /*about*/
-#project {
+#skills {
   background-image: -webkit-gradient(linear,
       left bottom,
       right top,
@@ -233,12 +266,9 @@
   font-family: "Ubuntu", sans-serif;
 }
 
-#project #project_icons {
-  padding-top: 35vh;
-}
 
 .view-button {
-  padding: 1.1em;
+  padding: 0.5em;
   border-radius: 2em;
   border: none;
   cursor: pointer;
@@ -264,7 +294,7 @@
   color: white;
 }
 
-#project_container {
+#skills_container {
   padding-top: 20vh;
   font-family: "Ubuntu", sans-serif;
   font-size: 1.4em;
@@ -383,7 +413,7 @@
 @media only screen and (max-width: 320px) {
 
   /*screen < 320px*/
-  #project_container {
+  #skills_container {
     font-size: 1em;
   }
 }
@@ -405,7 +435,7 @@
 
 }
 
-.font-montserrat{
+.font-montserrat {
   font-family: 'Montserrat', sans-serif;
 }
 

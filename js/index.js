@@ -14,7 +14,7 @@ $(document).ready(function () {
       'textColor': '#000',
       'bulletsColor': '#fff',
       'position': 'right',
-      'tooltips': ['Home', 'About','Experience', 'Projects', 'Contact']
+      'tooltips': ['Home', 'About','Experience', 'Skills','Projects', 'Contact']
     },
     normalScrollElements: null,
     normalScrollElementTouchThreshold: 5,
@@ -137,12 +137,3 @@ particlesJS('home', {
   "retina_detect": true
 }
 );
-
-function addColor(id) {
-  const class_list = document.getElementById(id).classList;
-  if (class_list.contains('colored')) {
-    class_list.remove('colored');
-  } else {
-    class_list.add('colored');
-  }
-}
