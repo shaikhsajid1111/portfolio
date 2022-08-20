@@ -1,32 +1,32 @@
-$(document).ready(function() {
-  var options = ['horizontal','vertical'];
+$(document).ready(function () {
+  var options = ['horizontal', 'vertical'];
   $('#pagepiling').pagepiling({
 
-        direction: screen.width < 400 ? 'vertical' : options[Math.floor(Math.random()*options.length)],
-        verticalCentered: true,
+    direction: screen.width < 400 ? 'vertical' : options[Math.floor(Math.random() * options.length)],
+    verticalCentered: true,
 
-        scrollingSpeed: 50,
-        easing: 'swing',
-        loopBottom: true,
-        loopTop: true,
-        css3: true,
-        navigation: {
-            'textColor': '#000',
-            'bulletsColor': '#fff',
-            'position': 'right',
-            'tooltips': ['Home', 'About', 'Projects', 'Contact']
-        },
-       	normalScrollElements: null,
-        normalScrollElementTouchThreshold: 5,
-        touchSensitivity: 5,
-        keyboardScrolling: true,
-        sectionSelector: '.section',
-        animateAnchor: false,
-    });
+    scrollingSpeed: 50,
+    easing: 'swing',
+    loopBottom: true,
+    loopTop: true,
+    css3: true,
+    navigation: {
+      'textColor': '#000',
+      'bulletsColor': '#fff',
+      'position': 'right',
+      'tooltips': ['Home', 'About','Experience', 'Skills','Projects', 'Contact']
+    },
+    normalScrollElements: null,
+    normalScrollElementTouchThreshold: 5,
+    touchSensitivity: 5,
+    keyboardScrolling: true,
+    sectionSelector: '.section',
+    animateAnchor: false,
+  });
 
 });
 
-particlesJS('home',{
+particlesJS('home', {
   "particles": {
     "number": {
       "value": 400,
