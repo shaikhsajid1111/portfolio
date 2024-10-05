@@ -64,17 +64,19 @@
 ## Projects
 
 ### Social Media Profile Scraper
-[Project Link](https://github.com/shaikhsajid1111/social-media-profile-scrapers/)
+[![Project Link](https://img.shields.io/badge/Project-Link-blue)](https://github.com/shaikhsajid1111/social-media-profile-scrapers)
+![GitHub Repo stars](https://img.shields.io/github/stars/shaikhsajid1111/social-media-profile-scrapers?style=social)
 
-Twitter scraper is a maintained python library to scrape data from Twitter profiles, keywords, or hashtags.
-- User can get the data in JSON format or even the CSV format.
-- It is a headless mode browser automation.
-- It is available on PyPi as well.
+
+
+Get social media's public profile data using scripts provided in this project. Contains scripts for Facebook, Instagram, Twitter, GitHub, Medium, and Pinterest. It uses python's selenium framework.
+
 
 ![Social Media Scraper](/assets/social-media-scraperjpeg.jpeg)
 
 ### Twitter Scraper Selenium
-[Project Link](https://github.com/shaikhsajid1111/twitter-scraper-selenium/)
+[![Project Link](https://img.shields.io/badge/Project-Link-blue)](https://github.com/shaikhsajid1111/twitter-scraper-selenium)
+![GitHub Repo stars](https://img.shields.io/github/stars/shaikhsajid1111/twitter-scraper-selenium?style=social)
 
 Twitter scraper is a maintained python library to scrape data from Twitter profiles, keywords, or hashtags.
 - User can get the data in JSON format or even the CSV format.
@@ -84,7 +86,8 @@ Twitter scraper is a maintained python library to scrape data from Twitter profi
 ![Twitter Scraper Selenium](/assets/twitter-scraper.jpeg)
 
 ### Facebook Page Scraper
-[Project Link](https://github.com/shaikhsajid1111/facebook_page_scraper/)
+[![Project Link](https://img.shields.io/badge/Project-Link-blue)](https://github.com/shaikhsajid1111/facebook_page_scraper)
+![GitHub Repo stars](https://img.shields.io/github/stars/shaikhsajid1111/facebook_page_scraper?style=social)
 
 Facebook Page scraper is maintained python library to extract post's data from the Facebook page's front end.
 - Extract data without getting blocked even a single time, no problem with getting your IP blocked.
