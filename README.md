@@ -5,14 +5,14 @@
 ## Education
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="assets/mu.jpeg" alt="Mumbai University" style="width: 25px; height: auto; margin-right: 5px;" />
+  <img src="assets/mu.jpeg" alt="Mumbai University" style="width: 30px; height: auto; margin-right: 5px;" />
   <span>B.S, Information Technology | University Of Mumbai (_May 2022_)</span>
 </div>
 
 ## Work Experience
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://www.finsmes.com/wp-content/uploads/2022/03/findem.jpg" alt="Findem Logo" style="width: 25px; height: auto; margin-right: 10px;" />
+  <img src="https://www.finsmes.com/wp-content/uploads/2022/03/findem.jpg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" />
   <strong>Software Engineer @ Findem Inc. (May 2022 - Present)</strong>
 </div>
 
@@ -28,7 +28,7 @@
 <br>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://www.finsmes.com/wp-content/uploads/2022/03/findem.jpg" alt="Findem Logo" style="width: 25px; height: auto; margin-right: 10px;" />
+  <img src="https://www.finsmes.com/wp-content/uploads/2022/03/findem.jpg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" />
   <strong>Data Engineering Intern @ Findem Inc. (May 2021 - May 2022)</strong>
 </div>
 
@@ -41,7 +41,7 @@
 
 <br>
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="assets/buildings.png" alt="Findem Logo" style="width: 25px; height: auto; margin-right: 10px;" />
+  <img src="assets/buildings.png" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" />
   <strong>Full-Stack Developer @ NiTech (July 2020 - May 2021)</strong>
 </div>
 
@@ -51,7 +51,7 @@
 
 <br>
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="assets/lantern_edusport.jpg" alt="Findem Logo" style="width: 25px; height: auto; margin-right: 10px;" />
+  <img src="assets/lantern_edusport.jpg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" />
   <strong>Program Manager @ Lantern Edusport Foundation (May 2020 - July 2020)</strong>
 </div>
 
@@ -65,7 +65,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px; background-color: #f9f9f9;">
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px">
     <h3 style="text-align: center;">Facebook Page Scraper</h3>
     <p>A Python library that scrapes Facebook page data seamlessly without getting blocked.</p>
     <div style="text-align: center;">
@@ -76,7 +76,7 @@
        style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
   </div>
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px; background-color: #f9f9f9;">
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px;">
     <h3 style="text-align: center;">Twitter Scraper Selenium</h3>
     <p>A Python library that scrapes Twitter profiles and keywords with ease.</p>
     <div style="text-align: center;">
@@ -93,7 +93,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px; background-color: #f9f9f9;">
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px;">
     <h3 style="text-align: center;">Manga Down</h3>
     <p>A Python library to download manga using automation.</p>
     <div style="text-align: center;">
@@ -104,7 +104,7 @@
        style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
   </div>
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px; background-color: #f9f9f9;">
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px;">
     <h3 style="text-align: center;">Social Media Profile Scraper</h3>
     <p>Collection of Python to script to collect user data across social medias.</p>
     <div style="text-align: center;">
