@@ -6,7 +6,7 @@
 - B.S, Information Technology | University Of Mumbai (_May 2022_)
 
 ## Work Experience
-**Software Engineer @ Findem Inc. (May 2022 - Present_)**
+**Software Engineer @ Findem Inc. (May 2022 - Present)**
 - Contribute to backend development.
 - Design, deploy, and automate data pipelines for seamless data flow.
 - Develop robust data correlation and merging algorithms.

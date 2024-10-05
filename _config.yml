@@ -1,5 +1,5 @@
-title: "Sajid Shaikh"
-description: "A portfolio website using Jekyll on GitHub Pages"
-baseurl: ""
+title: Sajid Shaikh
+#logo: /assets/img/image.jpg
+#description: text below image
 show_downloads: true
-theme: jekyll-theme-minimal # change this theme
+theme: jekyll-theme-minimal
