@@ -27,21 +27,20 @@
 ## Projects
 ### Facebook Page Scraper
 
+
+
+- Facebook Page scraper is maintained python library to extract post's data from the Facebook page's front end.
+- Extract data without getting blocked even a single time, no problem with getting your IP blocked.
+- Post's data can be extracted in form of JSON as well as CSV files very easily.
+- Made with Python, simple to import and install via pip
+
 <div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; text-align: center; background-color: #f9f9f9; margin-bottom: 20px;">
-  <h3 style="color: #333;">Facebook Page Scraper</h3>
-  <p>Scrapes Facebook's pages front end with no limitations & provides a feature to turn data into structured JSON or CSV.</p>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>Maintained Python library to extract post data from Facebook pages.</li>
-    <li>Extract data without getting blocked, ensuring no IP restrictions.</li>
-    <li>Data can be easily extracted in JSON and CSV formats.</li>
-    <li>Simple to import and install via pip.</li>
-  </ul>
-  <div>
-    <a href="https://github.com/shaikhsajid1111/facebook-page-scraper">
+  <p>
+    <a href="https://github.com/shaikhsajid1111/facebook_page_scraper">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook_page_scraper&layout=compact&theme=transparent" style="width: 80%; max-width: 400px; border-radius: 8px;" />
     </a>
-  </div>
+  </p>
   <p>
-    <a href="https://github.com/shaikhsajid1111/facebook-page-scraper" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">View Repository</a>
+    <a href="https://github.com/shaikhsajid1111/facebook_page_scraper" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">View Repository</a>
   </p>
 </div>
