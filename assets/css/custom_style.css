@@ -105,9 +105,6 @@
 }
 
 .profile-picture {
-  width: 150px;
-  /* Adjust size as needed */
-  height: 150px;
   /* Ensures it’s a perfect square */
   border-radius: 50%;
   /* Makes it a circle */
