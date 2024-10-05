@@ -63,33 +63,56 @@
 
 ## Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="https://github.com/shaikhsajid1111/twitter-scraper-selenium" style="flex: 1 1 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=twitter-scraper-selenium&layout=compact&theme=transparent" style="width: 100%; border-radius: 8px;" />
-  </a>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
 
-  <a href="https://github.com/shaikhsajid1111/social-media-profile-scrapers" style="flex: 1 1 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=social-media-profile-scrapers&layout=compact&theme=transparent" style="width: 100%; border-radius: 8px;" />
-  </a>
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px; background-color: #f9f9f9;">
+    <h3 style="text-align: center;">Facebook Page Scraper</h3>
+    <p>A Python library that scrapes Facebook page data seamlessly without getting blocked.</p>
+    <div style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook_page_scraper&layout=compact&theme=transparent&description_lines_count=1" style="width: 100%; border-radius: 8px;" alt="Facebook Page Scraper" />
+    </div>
+    <p><strong>Technologies:</strong> Python, Beautiful Soup, Requests and Selenium</p>
+    <a href="https://github.com/shaikhsajid1111/facebook_page_scraper"
+       style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
+  </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px; background-color: #f9f9f9;">
+    <h3 style="text-align: center;">Twitter Scraper Selenium</h3>
+    <p>A Python library that scrapes Twitter profiles and keywords with ease.</p>
+    <div style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=twitter-scraper-selenium&layout=compact&theme=transparentc" style="width: 100%; border-radius: 8px;" alt="Twitter Scraper" />
+    </div>
+    <p><strong>Technologies:</strong> Python, Selenium, Selenium, Beautiful and Requests</p>
+    <a href="https://github.com/shaikhsajid1111/twitter-scraper-selenium"
+       style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
+  </div>
 
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="https://github.com/shaikhsajid1111/manga-down" style="flex: 1 1 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=manga-down&layout=compact&theme=transparent" style="width: 100%; border-radius: 8px;" />
-  </a>
+<br>
 
-<a href="https://github.com/shaikhsajid1111/facebook_page_scraper" style="flex: 1 1 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook_page_scraper&layout=compact&theme=transparent" style="width: 100%; border-radius: 8px;" />
-  </a>
-</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="https://github.com/shaikhsajid1111/enquit" style="flex: 1 1 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=enquit&layout=compact&theme=transparent" style="width: 100%; border-radius: 8px;" />
-  </a>
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px; background-color: #f9f9f9;">
+    <h3 style="text-align: center;">Manga Down</h3>
+    <p>A Python library to download manga using automation.</p>
+    <div style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=manga-down&layout=compact&theme=transparent&description_lines_count=1" style="width: 100%; border-radius: 8px;" alt="Manga Down" />
+    </div>
+    <p><strong>Technologies:</strong> Python, Beautiful Soup and Requests</p>
+    <a href="https://github.com/shaikhsajid1111/facebook_page_scraper"
+       style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
+  </div>
 
-<a href="https://github.com/shaikhsajid1111/file-sharing-application" style="flex: 1 1 300px; max-width: 400px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=file-sharing-application&layout=compact&theme=transparent" style="width: 100%; border-radius: 8px;" />
-  </a>
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px; background-color: #f9f9f9;">
+    <h3 style="text-align: center;">Social Media Profile Scraper</h3>
+    <p>Collection of Python to script to collect user data across social medias.</p>
+    <div style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=social-media-profile-scrapers&layout=compact&theme=transparentc" style="width: 100%; border-radius: 8px;" alt="Twitter Scraper" />
+    </div>
+    <p><strong>Technologies:</strong> Python, Selenium, Selenium, Beautiful and Requests</p>
+    <a href="https://github.com/shaikhsajid1111/social-media-profile-scrapers"
+       style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
+  </div>
+
 </div>
