@@ -8,6 +8,7 @@
 
   {% seo %}
   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/custom_style.css" }}">
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -52,6 +53,11 @@
       <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
       {% endif %}
       </p>
+        <div class="social-links">
+          <a href="{{ site.social.github }}" target="_blank">GitHub</a> |
+          <a href="{{ site.social.linkedin }}" target="_blank">LinkedIn</a> |
+          <a href="{{ site.social.twitter }}" target="_blank">Twitter</a>
+        </div>
     </footer>
   </div>
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
