@@ -114,13 +114,13 @@
   border-color: #125688;
 }
 
-.profile-picture {
-  /* Ensures it’s a perfect square */
+/*.profile-picture {
   border-radius: 50%;
-  /* Makes it a circle */
   object-fit: cover;
-  /* Ensures the image doesn't stretch */
   display: block;
   margin: 0 auto;
-  /* Centers the image */
-}
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}*/
