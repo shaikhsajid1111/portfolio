@@ -116,3 +116,31 @@
   </div>
 
 </div>
+
+<br>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px;">
+    <h3 style="text-align: center;">Enquit</h3>
+    <p>A web application that lets you share, ask questions regarding anything anonymously without compromising your privacy may it be anything.</p>
+    <div style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=enquit&layout=compact&description_lines_count=1&theme=chartreuse-dark" style="width: 100%; border-radius: 8px;" alt="Manga Down" />
+    </div>
+    <p><strong>Technologies:</strong> HTML, CSS, Javascript, Python, Django and SQLite</p>
+    <a href="https://github.com/shaikhsajid1111/enquit"
+       style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
+  </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px;">
+    <h3 style="text-align: center;">Filereal</h3>
+    <p>A web application that lets you share up to 10 files per 30 minutes anonymously.</p>
+    <div style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=file-sharing-application&layout=compact&theme=chartreuse-dark&description_lines_count=1" style="width: 100%; border-radius: 8px;" alt="Twitter Scraper" />
+    </div>
+    <p><strong>Technologies:</strong>Node, Express, React and MongoDB </p>
+    <a href="https://github.com/shaikhsajid1111/file-sharing-application"
+       style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
+  </div>
+
+</div>
