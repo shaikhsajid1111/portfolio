@@ -63,6 +63,16 @@
 
 ## Projects
 
+### Social Media Profile Scraper
+[Project Link](https://github.com/shaikhsajid1111/social-media-profile-scrapers/)
+
+Twitter scraper is a maintained python library to scrape data from Twitter profiles, keywords, or hashtags.
+- User can get the data in JSON format or even the CSV format.
+- It is a headless mode browser automation.
+- It is available on PyPi as well.
+
+![Social Media Scraper](/assets/social-media-scraperjpeg.jpeg)
+
 ### Twitter Scraper Selenium
 [Project Link](https://github.com/shaikhsajid1111/twitter-scraper-selenium/)
 
