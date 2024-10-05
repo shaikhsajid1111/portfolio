@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Manrope|Montserrat|Open+Sans|Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Grand+Hotel&family=Norican&display=swap');
+@font-face {
+    font-family: 'MagmawaveCaps-Bold';
+    src: url('../fonts/MagmawaveCaps-Bold.woff2') format('woff2'),
+         url('../fonts/MagmawaveCaps-Bold.woff') format('woff'),
+         url('../fonts/MagmawaveCaps-Bold.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Beauty-and-the-beast';
+    src: url('../fonts/Beauty and the Beast Sample.woff2') format('woff2'),
+         url('../fonts/Beauty and the Beast Sample.woff') format('woff'),
+         url('../fonts/Beauty and the Beast Sample.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'moonbright';
+    src: url('../fonts/Moonbright Demo.woff2') format('woff2'),
+         url('../fonts/Moonbright Demo.woff') format('woff'),
+         url('../fonts/Moonbright Demo.ttf') format('truetype');
+  }
+
+  .beauty-and-the-beast{
+	font-family: 'Beauty-and-the-beast',Arial, Helvetica, sans-serif;
+	font-size: 4em;
+	font-weight: bold;
+}
+.beauty-and-the-beast::selection{
+	color:#D16BA5;
+}
+ .quark-cheese{
+	 font-family: 'Quark-Cheese';
+	 font-size: larger;
+ } 
+#home{
+	min-width: 100%;
+	min-height: 100vh;
+	background-image: url('https://dl.dropboxusercontent.com/s/k59qxs8xguedvyt/1125.jpg?dl=0');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	z-index: 99999;
+	
+}
+.text-container{
+	z-index: -9999;
+	text-shadow: -3px 4px 3px rgba(150, 150, 150, 1);
+	&:hover{
+		text-shadow: -2px 3px 3px rgba(150, 150, 150, 1);
+		transition: all 200ms;
+	}
+}
+#home::selection{
+	background-color: pink;
+}
+
+.vertical-center{
+	padding-top: 42vh;
+}
+
+/*work*/
+#work{
+	background-image: linear-gradient(to right top, #f80fb1, #c268ec, #7591ff, #01acff, #12bceb);
+	min-height: 100vh;
+}
+.card{
+	max-width: 20rem;
+
+	-moz-border-radius-topleft: 90px;
+	-webkit-border-top-left-radius: 90px;
+	 border-top-left-radius: 90px;
+	-moz-border-radius-topright: 78px;
+	-webkit-border-top-right-radius: 78px;
+	border-top-right-radius: 78px;
+	-moz-border-radius-bottomright: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	-moz-border-radius-bottomleft: 90px;
+	-webkit-border-bottom-left-radius: 90px;
+	border-bottom-left-radius: 90px;
+	-webkit-box-shadow: 6px 0px 30px -5px rgba(0,0,0,1);
+	-moz-box-shadow: 6px 0px 30px -5px rgba(0,0,0,1);
+	
+	box-shadow: 6px 0px 30px -5px rgba(0,0,0,1);
+	transition: 0.8s linear;
+	&:hover{
+		-webkit-box-shadow: 0px 0px 38px 14px rgba(0,0,0,0.75);
+		-moz-box-shadow: 0px 0px 38px 14px rgba(0,0,0,0.75);
+		box-shadow: 0px 0px 38px 14px rgba(0,0,0,0.75);
+		transition: all 1000ms;
+	}
+}
+.card-img-top{
+	border-radius: 19%;
+	cursor: pointer;
+	width: 100% !important;
+}
+.developer::selection{
+	color: #004d7a;
+	
+}
+
+.card-title{
+	font-family: 'Ubuntu', sans-serif;	
+}
+.card-title::selection{
+	color: #7591ff;
+}
+.badge{
+	background-color: #7591ff;
+	font-family: 'Montserrat', sans-serif;
+}
+.badge a{
+	text-decoration: none;
+	color: white;
+}
+#card-container{
+	padding-top: 4%;
+}
+@media screen and (max-width: 480px){
+	#card-container{
+		padding-top: 4%;
+	}
+	.card{
+		width: 19rem;
+	}
+}
+@media screen and (max-width: 1024px){
+	#card-container{
+		padding-top: 15%;
+	}
+	.card{
+		width: 21rem;
+	}
+}
+
+
+
+/*about*/
+#project{
+	background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+	min-height: 100vh;
+	.view-button{
+		font-family: 'Ubuntu', sans-serif;
+	}
+	#project_icons{
+		padding-top: 35vh;
+		
+	}
+}
+#project_container{
+	padding-top: 20vh;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 1.4em;
+	
+}
+
+.btn:focus {
+	box-shadow: none;
+  }
+.bttns{
+	padding-top: 35vh;
+	
+}
+.bttn{
+	border: 1px solid white;
+	border-radius: 0;
+	outline: none;
+	&:hover{
+		color: black;
+		background-color: white;
+		transition: all 400ms;
+	}
+}
+
+/*contact*/
+#contact{
+	min-height: 100vh;
+	background-image: linear-gradient(to right, #051937, #022846, #003754, #004761, #08576d);
+	.fa{
+		font-size: 3em;
+		text-decoration: none;
+		color: white;
+		padding: 1rem;	
+		text-shadow: -2px 14px 2px rgba(0, 0, 0, 1);
+		transition: 0.8s linear;
+		&:hover{
+			transform: scale(2);
+			transition: 0.7s linear;			
+		
+		}
+	}
+	.fa-github:hover{
+		color: black;
+		
+	}
+	.fa-envelope:hover{
+		color: 	#c71610;
+	}
+	.fa-facebook:hover{
+		color: #3b5998;
+	}
+	.fa-linkedin:hover{
+		color: #007bb6;
+	}
+	.fa-pinterest:hover{
+		color: #cb2027;
+	}
+	.fa-twitter:hover{
+		color: #00aced;
+	}
+	.fa-instagram:hover{
+		color: #fe4164;
+	}
+	.fa-stack-overflow:hover{
+		color:  #ef8236;
+	}
+	.fa-codepen:hover{
+		color: yellow;
+	}
+	.fa-quora:hover{
+		color: #a62100;
+	}
+}
+@media only screen and (min-width: 992px){
+	.view-button{
+		margin-top: 15vh;
+	}
+	.card{
+		max-width: 20rem;
+	}	
+}
+@media only screen and (max-width: 320px){
+	#project_container{
+		font-size: 1em;
+	}
+}
+
+/*
+font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Manrope', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+/*
+font-family: 'Cookie', cursive;
+font-family: 'Grand Hotel', cursive;
+font-family: 'Norican', cursive;
+*/
