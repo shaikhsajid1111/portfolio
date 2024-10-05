@@ -3,11 +3,11 @@
 #### Technical Skills: Python, JavaScript, TypeScript, SQL, AWS, Apache Airflow, Apache Kafka, Node, Express
 
 ## Education
+
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGsu_DimiqUow/company-logo_200_200/company-logo_200_200/0/1631357817785?e=1736380800&v=beta&t=DYvOw1D7LSr433AxCgpXds66kmy62MPnrwInvUBeN-k" alt="Graduation Icon" style="width: 25px; height: auto; margin-right: 5px;" />
+  <img src="assets/mu.jpeg" alt="Mumbai University" style="width: 25px; height: auto; margin-right: 5px;" />
   <span>B.S, Information Technology | University Of Mumbai (_May 2022_)</span>
 </div>
-
 
 ## Work Experience
 
@@ -61,41 +61,35 @@
 - Producing accurate and timely reporting throughout the course of the program.
 - Analyzing program risks and communicating with the core team.
 
-
 ## Projects
-### Facebook Page Scraper
 
-Facebook Page scraper is maintained python library to extract post's data from the Facebook page's front end.
-- Extract data without getting blocked even a single time, no problem with getting your IP blocked.
-- Post's data can be extracted in form of JSON as well as CSV files very easily.
-- Made with Python, simple to import and install via pip
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/shaikhsajid1111/twitter-scraper-selenium" style="flex: 1 1 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=twitter-scraper-selenium&layout=compact&theme=transparent" style="width: 100%; border-radius: 8px;" />
+  </a>
 
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; text-align: center; background-color: #f9f9f9; margin-bottom: 20px;">
-  <p>
-    <a href="https://github.com/shaikhsajid1111/facebook_page_scraper">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook_page_scraper&layout=compact&theme=transparent" style="width: 80%; max-width: 400px; border-radius: 8px;" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/shaikhsajid1111/facebook_page_scraper" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">View Repository</a>
-  </p>
+  <a href="https://github.com/shaikhsajid1111/social-media-profile-scrapers" style="flex: 1 1 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=social-media-profile-scrapers&layout=compact&theme=transparent" style="width: 100%; border-radius: 8px;" />
+  </a>
+
 </div>
 
-<br>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/shaikhsajid1111/manga-down" style="flex: 1 1 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=manga-down&layout=compact&theme=transparent" style="width: 100%; border-radius: 8px;" />
+  </a>
 
-### Twitter Scraper Selenium
-Twitter scraper is a maintained python library to scrape data Twitter profiles, keywords, or hashtags.
-- User can get the data in JSON format or even the CSV format.
-- It is a headless mode browser automation.
-- It is available on PyPi as well.
+<a href="https://github.com/shaikhsajid1111/facebook_page_scraper" style="flex: 1 1 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook_page_scraper&layout=compact&theme=transparent" style="width: 100%; border-radius: 8px;" />
+  </a>
+</div>
 
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; text-align: center; background-color: #f9f9f9; margin-bottom: 20px;">
-  <p>
-    <a href="https://github.com/shaikhsajid1111/twitter-scraper-selenium">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=twitter-scraper-selenium&layout=compact&theme=transparent" style="width: 80%; max-width: 400px; border-radius: 8px;" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/shaikhsajid1111/twitter-scraper-selenium" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">View Repository</a>
-  </p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/shaikhsajid1111/enquit" style="flex: 1 1 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=enquit&layout=compact&theme=transparent" style="width: 100%; border-radius: 8px;" />
+  </a>
+
+<a href="https://github.com/shaikhsajid1111/file-sharing-application" style="flex: 1 1 300px; max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=file-sharing-application&layout=compact&theme=transparent" style="width: 100%; border-radius: 8px;" />
+  </a>
 </div>
