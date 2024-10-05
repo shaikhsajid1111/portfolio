@@ -3,7 +3,11 @@
 #### Technical Skills: Python, JavaScript, TypeScript, SQL, AWS, Apache Airflow, Apache Kafka, Node, Express
 
 ## Education
-- B.S, Information Technology | University Of Mumbai (_May 2022_)
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://media.licdn.com/dms/image/v2/C4E0BAQGsu_DimiqUow/company-logo_200_200/company-logo_200_200/0/1631357817785?e=1736380800&v=beta&t=DYvOw1D7LSr433AxCgpXds66kmy62MPnrwInvUBeN-k" alt="Graduation Icon" style="width: 25px; height: auto; margin-right: 5px;" />
+  <span>B.S, Information Technology | University Of Mumbai (_May 2022_)</span>
+</div>
+
 
 ## Work Experience
 
@@ -34,6 +38,28 @@
 - Explore ways to enhance data quality and reliability.
 - Identify opportunities for data acquisition.
 - Parsing unstructured data and aggregation.
+
+<br>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="assets/buildings.png" alt="Findem Logo" style="width: 25px; height: auto; margin-right: 10px;" />
+  <strong>Full-Stack Developer @ NiTech (July 2020 - May 2021)</strong>
+</div>
+
+- Designed, developed, and maintained the data pipeline of a web application, integrating multiple data sources with the backend powered by PHP's Laravel.
+- Used Python's Selenium to scrape and extract data from various web sources, and implemented data cleaning, correlation, and merging algorithms to ensure high data quality.
+- Deployed the data pipeline on a Linux server for a client based in Montenegro, ensuring smooth data transfer and seamless integration with existing systems.
+
+<br>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="assets/lantern_edusport.jpg" alt="Findem Logo" style="width: 25px; height: auto; margin-right: 10px;" />
+  <strong>Program Manager @ Lantern Edusport Foundation (May 2020 - July 2020)</strong>
+</div>
+
+- Sharing learning material and tasks to students according to a monthly calendar.
+- Assess student work and identify areas for improvement.
+- Engaging with all students to make communication easy and transparent.
+- Producing accurate and timely reporting throughout the course of the program.
+- Analyzing program risks and communicating with the core team.
 
 
 ## Projects
