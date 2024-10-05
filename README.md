@@ -27,9 +27,7 @@
 ## Projects
 ### Facebook Page Scraper
 
-
-
-- Facebook Page scraper is maintained python library to extract post's data from the Facebook page's front end.
+Facebook Page scraper is maintained python library to extract post's data from the Facebook page's front end.
 - Extract data without getting blocked even a single time, no problem with getting your IP blocked.
 - Post's data can be extracted in form of JSON as well as CSV files very easily.
 - Made with Python, simple to import and install via pip
@@ -42,5 +40,24 @@
   </p>
   <p>
     <a href="https://github.com/shaikhsajid1111/facebook_page_scraper" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">View Repository</a>
+  </p>
+</div>
+
+<br>
+
+### Twitter Scraper Selenium
+Twitter scraper is a maintained python library to scrape data Twitter profiles, keywords, or hashtags.
+- User can get the data in JSON format or even the CSV format.
+- It is a headless mode browser automation.
+- It is available on PyPi as well.
+
+<div style="border: 1px solid #ccc; border-radius: 8px; padding: 20px; text-align: center; background-color: #f9f9f9; margin-bottom: 20px;">
+  <p>
+    <a href="https://github.com/shaikhsajid1111/twitter-scraper-selenium">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=twitter-scraper-selenium&layout=compact&theme=transparent" style="width: 80%; max-width: 400px; border-radius: 8px;" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/shaikhsajid1111/twitter-scraper-selenium" style="text-decoration: none; background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px;">View Repository</a>
   </p>
 </div>
