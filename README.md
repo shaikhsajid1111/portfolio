@@ -25,6 +25,19 @@
 - Parsing unstructured data and aggregation.
 
 ## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook_page_scraper&theme=transparent)](https://github.com/shaikhsajid1111/facebook_page_scraper)
+### Facebook Page Scraper
+Scrapes facebook's pages front end with no limitations & provides a feature to turn data into structured JSON or CSV
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=twitter-scraper-selenium&layout=compact)](https://github.com/shaikhsajid1111/twitter-scraper-selenium)
+<center>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook_page_scraper&theme=transparent&layout=compact)](https://github.com/shaikhsajid1111/facebook_page_scraper)
+
+</center>
+
+- Facebook Page scraper is maintained python library to extract post's data from the Facebook page's front end.
+- Extract data without getting blocked even a single time, no problem with getting your IP blocked.
+- Post's data can be extracted in form of JSON as well as CSV files very easily.
+- Made with Python, simple to import and install via pip
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=twitter-scraper-selenium&layout=compact&theme=transparent)](https://github.com/shaikhsajid1111/twitter-scraper-selenium)
