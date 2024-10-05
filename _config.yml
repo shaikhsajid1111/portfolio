@@ -1,5 +1,5 @@
 title: "Sajid Shaikh"
 description: "A portfolio website using Jekyll on GitHub Pages"
 baseurl: ""
-url: "https://shaikhsajid1111.github.io"
-theme: jekyll-theme-cayman # change this theme
+show_downloads: true
+theme: jekyll-theme-minimal # change this theme
