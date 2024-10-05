@@ -38,7 +38,7 @@
   </ul>
   <div>
     <a href="https://github.com/shaikhsajid1111/facebook-page-scraper">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook-page-scraper&layout=compact&theme=transparent" style="width: 80%; max-width: 400px; border-radius: 8px;" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook_page_scraper&layout=compact&theme=transparent" style="width: 80%; max-width: 400px; border-radius: 8px;" />
     </a>
   </div>
   <p>
