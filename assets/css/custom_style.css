@@ -20,6 +20,14 @@
   transition: all 0.5s ease;
   margin-right: 0.25rem;
   margin-bottom: 0.25rem;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -webkit-border-radius: 1.6875rem;
+  -moz-border-radius: 1.6875rem;
+  -ms-border-radius: 1.6875rem;
+  -o-border-radius: 1.6875rem;
 }
 
 .rounded-social-buttons .social-button:hover,
@@ -27,6 +35,8 @@
   -webkit-transform: rotate(360deg);
   -ms-transform: rotate(360deg);
   transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
 }
 
 .rounded-social-buttons .fa-twitter,
