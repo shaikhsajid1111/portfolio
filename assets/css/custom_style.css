@@ -103,3 +103,17 @@
   background: #fefefe;
   border-color: #125688;
 }
+
+.profile-picture {
+  width: 150px;
+  /* Adjust size as needed */
+  height: 150px;
+  /* Ensures it’s a perfect square */
+  border-radius: 50%;
+  /* Makes it a circle */
+  object-fit: cover;
+  /* Ensures the image doesn't stretch */
+  display: block;
+  margin: 0 auto;
+  /* Centers the image */
+}
