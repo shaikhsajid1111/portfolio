@@ -63,84 +63,24 @@
 
 ## Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+### Twitter Scraper Selenium
+[Project Link](https://github.com/shaikhsajid1111/twitter-scraper-selenium/)
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px">
-    <h3 style="text-align: center;">Facebook Page Scraper</h3>
-    <p>A Python library that scrapes Facebook page data seamlessly without getting blocked.</p>
-    <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook_page_scraper&layout=compact&description_lines_count=1&theme=chartreuse-dark" style="width: 100%; border-radius: 8px;" alt="Facebook Page Scraper" />
-    </div>
-    <p><strong>Technologies:</strong> Python, Beautiful Soup, Requests and Selenium</p>
-    <a href="https://github.com/shaikhsajid1111/facebook_page_scraper"
-       style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
-  </div>
+Twitter scraper is a maintained python library to scrape data from Twitter profiles, keywords, or hashtags.
+- User can get the data in JSON format or even the CSV format.
+- It is a headless mode browser automation.
+- It is available on PyPi as well.
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px;">
-    <h3 style="text-align: center;">Twitter Scraper Selenium</h3>
-    <p>A Python library that scrapes Twitter profiles and keywords with ease.</p>
-    <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=twitter-scraper-selenium&layout=compact&theme=chartreuse-dark" style="width: 100%; border-radius: 8px" alt="Twitter Scraper" />
-    </div>
-    <p><strong>Technologies:</strong> Python, Selenium, Selenium, Beautiful and Requests</p>
-    <a href="https://github.com/shaikhsajid1111/twitter-scraper-selenium"
-       style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
-  </div>
+![Twitter Scraper Selenium](/assets/twitter-scraper.jpeg)
 
-</div>
+### Facebook Page Scraper
+[Project Link](https://github.com/shaikhsajid1111/facebook_page_scraper/)
 
-<br>
+Facebook Page scraper is maintained python library to extract post's data from the Facebook page's front end.
+- Extract data without getting blocked even a single time, no problem with getting your IP blocked.
+- Post's data can be extracted in form of JSON as well as CSV files very easily.
+- Made with Python, simple to import and install via pip
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px;">
-    <h3 style="text-align: center;">Manga Down</h3>
-    <p>A Python library to download manga using automation.</p>
-    <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=manga-down&layout=compact&description_lines_count=1&theme=chartreuse-dark" style="width: 100%; border-radius: 8px;" alt="Manga Down" />
-    </div>
-    <p><strong>Technologies:</strong> Python, Beautiful Soup and Requests</p>
-    <a href="https://github.com/shaikhsajid1111/facebook_page_scraper"
-       style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
-  </div>
+![Facebook Scraper](/assets/fb_scraper.jpeg)
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px;">
-    <h3 style="text-align: center;">Social Media Profile Scraper</h3>
-    <p>Collection of Python to script to collect user data across social medias.</p>
-    <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=social-media-profile-scrapers&layout=compact&theme=chartreuse-dark" style="width: 100%; border-radius: 8px;" alt="Twitter Scraper" />
-    </div>
-    <p><strong>Technologies:</strong> Python, Selenium, Selenium, Beautiful and Requests</p>
-    <a href="https://github.com/shaikhsajid1111/social-media-profile-scrapers"
-       style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
-  </div>
-
-</div>
-
-<br>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
-
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px;">
-    <h3 style="text-align: center;">Enquit</h3>
-    <p>A web application that lets you share, ask questions regarding anything anonymously without compromising your privacy may it be anything.</p>
-    <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=enquit&layout=compact&description_lines_count=1&theme=chartreuse-dark" style="width: 100%; border-radius: 8px;" alt="Manga Down" />
-    </div>
-    <p><strong>Technologies:</strong> HTML, CSS, Javascript, Python, Django and SQLite</p>
-    <a href="https://github.com/shaikhsajid1111/enquit"
-       style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
-  </div>
-
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 300px;">
-    <h3 style="text-align: center;">Filereal</h3>
-    <p>A web application that lets you share up to 10 files per 30 minutes anonymously.</p>
-    <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=file-sharing-application&layout=compact&theme=chartreuse-dark&description_lines_count=1" style="width: 100%; border-radius: 8px;" alt="Twitter Scraper" />
-    </div>
-    <p><strong>Technologies:</strong>Node, Express, React and MongoDB </p>
-    <a href="https://github.com/shaikhsajid1111/file-sharing-application"
-       style="display: block; text-decoration: none; background-color: #007bff; color: white; padding: 10px; border-radius: 5px; text-align: center; width: 100%; box-sizing: border-box;">View Repository</a>
-  </div>
-
-</div>
