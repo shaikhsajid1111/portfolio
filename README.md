@@ -25,6 +25,6 @@
 - Parsing unstructured data and aggregation.
 
 ## Projects
-[![shaikhsajid1111/facebook_page_scraper - GitHub](https://gh-card.dev/repos/shaikhsajid1111/facebook_page_scraper.svg?fullname=)](https://github.com/shaikhsajid1111/facebook_page_scraper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook_page_scraper&theme=transparent)](https://github.com/shaikhsajid1111/facebook_page_scraper)
 
-[![shaikhsajid1111/twitter-scraper-selenium - GitHub](https://gh-card.dev/repos/shaikhsajid1111/twitter-scraper-selenium.svg?fullname=)](https://github.com/shaikhsajid1111/twitter-scraper-selenium)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=twitter-scraper-selenium&layout=compact)](https://github.com/shaikhsajid1111/twitter-scraper-selenium)
