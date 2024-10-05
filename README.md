@@ -69,7 +69,7 @@
     <h3 style="text-align: center;">Facebook Page Scraper</h3>
     <p>A Python library that scrapes Facebook page data seamlessly without getting blocked.</p>
     <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook_page_scraper&layout=compact&description_lines_count=1" style="width: 100%; border-radius: 8px;" alt="Facebook Page Scraper" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=facebook_page_scraper&layout=compact&description_lines_count=1&theme=chartreuse-dark" style="width: 100%; border-radius: 8px;" alt="Facebook Page Scraper" />
     </div>
     <p><strong>Technologies:</strong> Python, Beautiful Soup, Requests and Selenium</p>
     <a href="https://github.com/shaikhsajid1111/facebook_page_scraper"
@@ -80,7 +80,7 @@
     <h3 style="text-align: center;">Twitter Scraper Selenium</h3>
     <p>A Python library that scrapes Twitter profiles and keywords with ease.</p>
     <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=twitter-scraper-selenium&layout=compact" style="width: 100%; border-radius: 8px" alt="Twitter Scraper" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=twitter-scraper-selenium&layout=compact&theme=chartreuse-dark" style="width: 100%; border-radius: 8px" alt="Twitter Scraper" />
     </div>
     <p><strong>Technologies:</strong> Python, Selenium, Selenium, Beautiful and Requests</p>
     <a href="https://github.com/shaikhsajid1111/twitter-scraper-selenium"
@@ -97,7 +97,7 @@
     <h3 style="text-align: center;">Manga Down</h3>
     <p>A Python library to download manga using automation.</p>
     <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=manga-down&layout=compact&description_lines_count=1" style="width: 100%; border-radius: 8px;" alt="Manga Down" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=manga-down&layout=compact&description_lines_count=1&theme=chartreuse-dark" style="width: 100%; border-radius: 8px;" alt="Manga Down" />
     </div>
     <p><strong>Technologies:</strong> Python, Beautiful Soup and Requests</p>
     <a href="https://github.com/shaikhsajid1111/facebook_page_scraper"
@@ -108,7 +108,7 @@
     <h3 style="text-align: center;">Social Media Profile Scraper</h3>
     <p>Collection of Python to script to collect user data across social medias.</p>
     <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=social-media-profile-scrapers&layout=compact" style="width: 100%; border-radius: 8px;" alt="Twitter Scraper" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsajid1111&repo=social-media-profile-scrapers&layout=compact&theme=chartreuse-dark" style="width: 100%; border-radius: 8px;" alt="Twitter Scraper" />
     </div>
     <p><strong>Technologies:</strong> Python, Selenium, Selenium, Beautiful and Requests</p>
     <a href="https://github.com/shaikhsajid1111/social-media-profile-scrapers"
