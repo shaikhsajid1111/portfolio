@@ -1,12 +1,12 @@
 # Software Engineer (Data & Backend)
 
-#### Technical Skills: Python, JavaScript, TypeScript, SQL, AWS, Apache Airflow, Apache Kafka, Node, Express
+#### Technical Skills: Python, JavaScript, Java, TypeScript, SQL, AWS, Apache Airflow, Apache Kafka, Node, Express, Mongo, MySQL
 
 ## Education
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="assets/mu.jpeg" alt="Mumbai University" style="width: 30px; height: auto; margin-right: 5px;" />
-  <span>B.S, Information Technology | University Of Mumbai (_May 2022_)</span>
+  <span>B.S, Information Technology | University Of Mumbai (May 2022)</span>
 </div>
 
 ## Work Experience
