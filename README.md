@@ -1,12 +1,27 @@
 # Software Engineer (Data & Backend)
 
-#### Technical Skills: Python, JavaScript, Java, TypeScript, SQL, AWS, Apache Airflow, Apache Kafka, Node, Express, Mongo, MySQL
+#### Technical Skills:
 
+**Programming Languages:** Python, JavaScript, Java, TypeScript, SQL, C, C++, PHP, Golang
+
+**Cloud Platform:** AWS(Amazon Web Services), GCP(Google Cloud Platform)
+
+**Data Engineering:** Apache Airflow, Apache Kafka, Apache Spark, Pandas, Numpy
+
+**Front-End Development:** React, Bootstrap.
+
+**Backend Development:** Node.js, Express, FastAPI, Django, Flask
+
+**Databases:** Mongo, MySQL, Redis
+
+**DevOps & Tools:** Linux, Git, Docker
+
+**Automation & Web Scraping:** Selenium, Puppeteer
 ## Education
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="assets/mu.jpeg" alt="Mumbai University" style="width: 30px; height: auto; margin-right: 5px;" />
-  <span>B.S, Information Technology | University Of Mumbai (May 2022)</span>
+  <span>Bachelors of Science in Information Technology | University Of Mumbai (May 2022)</span>
 </div>
 
 ## Work Experience
@@ -24,6 +39,8 @@
 - Identify opportunities for data acquisition to enrich insights.
 - Explore methods to improve data quality and reliability.
 - Manage complex data workflows for efficient data processing.
+
+**Skills Used:** Apache Airflow, Docker, AWS, GCP, MongoDB, Express, TypeScript, JavaScript.
 
 <br>
 
@@ -71,6 +88,7 @@
 
 Get social media's public profile data using scripts provided in this project. Contains scripts for Facebook, Instagram, Twitter, GitHub, Medium, and Pinterest. It uses python's selenium framework.
 
+**Technologies**: Python, Selenium and Requests.
 
 ![Social Media Scraper](/assets/social-media-scraperjpeg.jpeg)
 
@@ -83,6 +101,8 @@ Twitter scraper is a maintained python library to scrape data from Twitter profi
 - It is a headless mode browser automation.
 - It is available on PyPi as well.
 
+**Technologies**: Python, Selenium and Requests.
+
 ![Twitter Scraper Selenium](/assets/twitter-scraper.jpeg)
 
 ### Facebook Page Scraper
@@ -94,6 +114,7 @@ Facebook Page scraper is maintained python library to extract post's data from t
 - Post's data can be extracted in form of JSON as well as CSV files very easily.
 - Made with Python, simple to import and install via pip
 
+**Technologies**: Python, Selenium and Requests.
 
 ![Facebook Scraper](/assets/fb_scraper.jpeg)
 
