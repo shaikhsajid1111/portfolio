@@ -6,7 +6,12 @@
 - B.S, Information Technology | University Of Mumbai (_May 2022_)
 
 ## Work Experience
-**Software Engineer @ Findem Inc. (May 2022 - Present)**
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://www.finsmes.com/wp-content/uploads/2022/03/findem.jpg" alt="Findem Logo" style="width: 25px; height: auto; margin-right: 10px;" />
+  <strong>Software Engineer @ Findem Inc. (May 2022 - Present)</strong>
+</div>
+
 - Contribute to backend development.
 - Design, deploy, and automate data pipelines for seamless data flow.
 - Develop robust data correlation and merging algorithms.
@@ -16,13 +21,20 @@
 - Explore methods to improve data quality and reliability.
 - Manage complex data workflows for efficient data processing.
 
-**Data Enginering Intern @ Findem Inc. (May 2021 - May 2022)**
+<br>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://www.finsmes.com/wp-content/uploads/2022/03/findem.jpg" alt="Findem Logo" style="width: 25px; height: auto; margin-right: 10px;" />
+  <strong>Data Engineering Intern @ Findem Inc. (May 2021 - May 2022)</strong>
+</div>
+
 - Develop algorithms to transform data into useful, actionable information.
 - Analyze and organize raw data.
 - Build algorithms and prototypes.
 - Explore ways to enhance data quality and reliability.
 - Identify opportunities for data acquisition.
 - Parsing unstructured data and aggregation.
+
 
 ## Projects
 ### Facebook Page Scraper
