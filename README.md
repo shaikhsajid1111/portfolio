@@ -146,3 +146,13 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
 **Technologies**: Node, Express, MongoDB, Bootstrap and React
 
 ![FileReal](assets/filerealjpg.jpg)
+
+## Certificates
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
+    <strong style="font-size: 1.1em; color: #333;">Responsive Web Design</strong>
+  </div>
+  <span style="font-size: 0.9em; color: #777;">Freecodecamp - January 2019</span>
+</div>
