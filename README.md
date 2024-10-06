@@ -21,7 +21,7 @@
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="assets/mu.jpeg" alt="Mumbai University" style="width: 30px; height: auto; margin-right: 5px;" />
-  <span>Bachelors of Science in Information Technology | University Of Mumbai (May 2022)</span>
+  <span>Bachelors of Science in Information Technology | University Of Mumbai (July 2019 - May 2022)</span>
 </div>
 
 ## Work Experience
