@@ -114,6 +114,18 @@
   border-color: #125688;
 }
 
+.social-button.dev i {
+  color: #0A0A0A;
+}
+
+.social-button.github {
+  color: #181717;
+}
+
+.social-button.stackoverflow  {
+  color: #F48024;
+}
+
 /*.profile-picture {
   border-radius: 50%;
   object-fit: cover;
