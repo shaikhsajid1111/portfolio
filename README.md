@@ -127,7 +127,9 @@ Facebook Page scraper is maintained python library to extract post's data from t
 [![Project Link](https://img.shields.io/badge/Project-Link-blue)](https://github.com/shaikhsajid1111/enquit)
 ![GitHub Repo stars](https://img.shields.io/github/stars/shaikhsajid1111/enquit?style=social)
 
-Enquit is an Anonymous Social Question and answers Web application. Back-End built with Django and Front-End with Bootstrap. It lets you share, ask questions regarding anything anonymously without compromising your privacy may it be anything.
+Enquit is an anonymous social question and answer platform designed to foster open communication without compromising user privacy. On Enquit, users can freely ask and answer questions on any topic, whether it’s personal, professional, or just out of curiosity, all while maintaining complete anonymity. The platform provides a safe space for individuals to share their thoughts, seek advice, or engage in discussions without the fear of revealing their identity.
+
+Whether you're looking to get honest feedback, share opinions, or simply learn from the community, Enquit ensures your privacy is always protected. With its user-friendly interface and focus on confidentiality, Enquit is the ideal place for anyone seeking a judgment-free zone to ask questions, share knowledge, and connect with others.
 
 **Technologies**: Python, Django, SQLite, HTML, CSS, TypeScript and Bootstrap
 
@@ -135,7 +137,9 @@ Enquit is an Anonymous Social Question and answers Web application. Back-End bui
 [![Project Link](https://img.shields.io/badge/Project-Link-blue)](https://github.com/shaikhsajid1111/file-sharing-application)
 ![GitHub Repo stars](https://img.shields.io/github/stars/shaikhsajid1111/file-sharing-application?style=social)
 
-Filereal is an application that lets you share up to 10 files per 30 minutes anonymously.
+Filereal is a cutting-edge platform designed for seamless, anonymous file sharing. With Filereal, users can effortlessly upload and share up to 10 files every 30 minutes, without the need for registration or personal information. Whether you're collaborating on projects, sharing personal files, or distributing content, Filereal ensures that your privacy is maintained throughout the entire process. It’s perfect for anyone looking for a quick, secure, and easy way to share files with colleagues, friends, or online communities while keeping their identity completely anonymous.
+
+Filereal’s intuitive interface and simple functionality make it accessible to users of all levels, offering a robust solution for time-sensitive file sharing. Enjoy the freedom to share without constraints, all while maintaining top-tier security and privacy standards. With Filereal, sharing files has never been more efficient or secure!
 
 **Technologies**: Node, Express, MongoDB, Bootstrap and React
 
