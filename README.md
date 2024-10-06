@@ -156,3 +156,75 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
   </div>
   <span style="font-size: 0.9em; color: #777;">Freecodecamp - January 2019</span>
 </div>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
+    <strong style="font-size: 1.1em; color: #333;">Data Visualization</strong>
+  </div>
+  <span style="font-size: 0.9em; color: #777;">Freecodecamp - March 2021</span>
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
+    <strong style="font-size: 1.1em; color: #333;">Information Security</strong>
+  </div>
+  <span style="font-size: 0.9em; color: #777;">Freecodecamp - March 2021</span>
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
+    <strong style="font-size: 1.1em; color: #333;">Javascript Algorithms and Data Structures</strong>
+  </div>
+  <span style="font-size: 0.9em; color: #777;">Freecodecamp - March 2021</span>
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
+    <strong style="font-size: 1.1em; color: #333;">Scientific Computing with Python</strong>
+  </div>
+  <span style="font-size: 0.9em; color: #777;">Freecodecamp - March 2021</span>
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
+    <strong style="font-size: 1.1em; color: #333;">APIs and Microservices</strong>
+  </div>
+  <span style="font-size: 0.9em; color: #777;">Freecodecamp - October 2020</span>
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="assets/HackerRank_Icon-1000px.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
+    <strong style="font-size: 1.1em; color: #333;">Rest API Certificate</strong>
+  </div>
+  <span style="font-size: 0.9em; color: #777;">HackerRank - October 2020</span>
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="assets/udemy-icon.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
+    <strong style="font-size: 1.1em; color: #333;">React JS- Complete Guide for Frontend Web Development [2022]</strong>
+  </div>
+  <span style="font-size: 0.9em; color: #777;">Udemy - January 2019</span>
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="assets/udemy-icon.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
+    <strong style="font-size: 1.1em; color: #333;">Practical Web Development</strong>
+  </div>
+  <span style="font-size: 0.9em; color: #777;">Udemy - March 2021</span>
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="assets/udemy-icon.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
+    <strong style="font-size: 1.1em; color: #333;">Python Django Full Stack Developer</strong>
+  </div>
+  <span style="font-size: 0.9em; color: #777;">Udemy - March 2021</span>
+</div>
