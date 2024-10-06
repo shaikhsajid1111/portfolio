@@ -154,7 +154,7 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
     <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
     <strong><a style="font-size: 1.1em; color: #333;" href="https://freecodecamp.org/certification/sajidshaikh/responsive-web-design" target="_blank">Responsive Web Design</a></strong>
   </div>
-  <span style="font-size: 0.9em; color: #777;">Freecodecamp - January 2019</span>
+  <span style="font-size: 0.9em; color: #777;">Freecodecamp - February 2019</span>
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
@@ -201,10 +201,10 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
     <strong style="font-size: 1.1em; color: #333;">
-    <a style="font-size: 1.1em; color: #333;" href="https://freecodecamp.org/certification/sajidshaikh/apis-and-microservices" target="_blank">APIs and Microservices</a>
+    <a style="font-size: 1.1em; color: #333;" href="https://freecodecamp.org/certification/sajidshaikh/apis-and-microservices" target="_blank">Back End Development and APIs</a>
     </strong>
   </div>
-  <span style="font-size: 0.9em; color: #777;">Freecodecamp - October 2020</span>
+  <span style="font-size: 0.9em; color: #777;">Freecodecamp - November 2020</span>
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
@@ -224,7 +224,7 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
     <a style="font-size: 1.1em; color: #333;" href="https://www.udemy.com/certificate/UC-604674cf-15e9-4f0a-aa21-752999249984/" target="_blank">React JS- Complete Guide for Frontend Web Development [2022]</a>
     </strong>
   </div>
-  <span style="font-size: 0.9em; color: #777;">Udemy - January 2019</span>
+  <span style="font-size: 0.9em; color: #777;">Udemy - September 2022</span>
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
