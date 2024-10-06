@@ -152,7 +152,7 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
-    <strong style="font-size: 1.1em; color: #333;">Responsive Web Design</strong>
+    <strong><a style="font-size: 1.1em; color: #333;" href="https://freecodecamp.org/certification/sajidshaikh/responsive-web-design" target="_blank">Responsive Web Design</a></strong>
   </div>
   <span style="font-size: 0.9em; color: #777;">Freecodecamp - January 2019</span>
 </div>
@@ -160,7 +160,9 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
-    <strong style="font-size: 1.1em; color: #333;">Data Visualization</strong>
+    <strong>
+    <a style="font-size: 1.1em; color: #333;" href="https://freecodecamp.org/certification/sajidshaikh/data-visualization" target="_blank"> Data Visualization </a>
+    </strong>
   </div>
   <span style="font-size: 0.9em; color: #777;">Freecodecamp - March 2021</span>
 </div>
@@ -168,7 +170,9 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
-    <strong style="font-size: 1.1em; color: #333;">Information Security</strong>
+    <strong>
+    <a style="font-size: 1.1em; color: #333;" href="https://freecodecamp.org/certification/sajidshaikh/information-security-v7" target="_blank">Information Security </a>
+    </strong>
   </div>
   <span style="font-size: 0.9em; color: #777;">Freecodecamp - March 2021</span>
 </div>
@@ -176,7 +180,9 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
-    <strong style="font-size: 1.1em; color: #333;">Javascript Algorithms and Data Structures</strong>
+    <strong>
+    <a style="font-size: 1.1em; color: #333;" href="https://freecodecamp.org/certification/sajidshaikh/javascript-algorithms-and-data-structures" target="_blank">Javascript Algorithms and Data Structures</a>
+    </strong>
   </div>
   <span style="font-size: 0.9em; color: #777;">Freecodecamp - March 2021</span>
 </div>
@@ -184,7 +190,9 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
-    <strong style="font-size: 1.1em; color: #333;">Scientific Computing with Python</strong>
+    <strong>
+    <a style="font-size: 1.1em; color: #333;" href="https://freecodecamp.org/certification/sajidshaikh/scientific-computing-with-python-v7" target="_blank">Scientific Computing with Python</a>
+    </strong>
   </div>
   <span style="font-size: 0.9em; color: #777;">Freecodecamp - March 2021</span>
 </div>
@@ -192,7 +200,9 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="assets/fcc_secondary_small.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
-    <strong style="font-size: 1.1em; color: #333;">APIs and Microservices</strong>
+    <strong style="font-size: 1.1em; color: #333;">
+    <a style="font-size: 1.1em; color: #333;" href="https://freecodecamp.org/certification/sajidshaikh/apis-and-microservices" target="_blank">APIs and Microservices</a>
+    </strong>
   </div>
   <span style="font-size: 0.9em; color: #777;">Freecodecamp - October 2020</span>
 </div>
@@ -200,7 +210,9 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="assets/HackerRank_Icon-1000px.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
-    <strong style="font-size: 1.1em; color: #333;">Rest API Certificate</strong>
+    <strong>
+    <a style="font-size: 1.1em; color: #333;" href="https://www.hackerrank.com/certificates/b0fadb25235f" target="_blank">Rest API Certificate</a>
+    </strong>
   </div>
   <span style="font-size: 0.9em; color: #777;">HackerRank - October 2020</span>
 </div>
@@ -208,7 +220,9 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="assets/udemy-icon.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
-    <strong style="font-size: 1.1em; color: #333;">React JS- Complete Guide for Frontend Web Development [2022]</strong>
+    <strong>
+    <a style="font-size: 1.1em; color: #333;" href="https://www.udemy.com/certificate/UC-604674cf-15e9-4f0a-aa21-752999249984/" target="_blank">React JS- Complete Guide for Frontend Web Development [2022]</a>
+    </strong>
   </div>
   <span style="font-size: 0.9em; color: #777;">Udemy - January 2019</span>
 </div>
@@ -216,7 +230,9 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="assets/udemy-icon.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
-    <strong style="font-size: 1.1em; color: #333;">Practical Web Development</strong>
+    <strong>
+    <a style="font-size: 1.1em; color: #333;" href="https://www.udemy.com/certificate/UC-d070f93f-2a06-4ded-8913-91bae72db62f/" target="_blank">Practical Web Development</a>
+    </strong>
   </div>
   <span style="font-size: 0.9em; color: #777;">Udemy - March 2021</span>
 </div>
@@ -224,7 +240,9 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="assets/udemy-icon.png" alt="Freecodecamp Logo" style="width: 40px; height: auto; margin-right: 10px;" />
-    <strong style="font-size: 1.1em; color: #333;">Python Django Full Stack Developer</strong>
+    <strong>
+    <a style="font-size: 1.1em; color: #333;" href="https://www.udemy.com/certificate/UC-95a4d33a-1e7c-4218-a98c-d258ead5ca06/" target="_blank">Python Django Full Stack Developer</a>
+    </strong>
   </div>
   <span style="font-size: 0.9em; color: #777;">Udemy - March 2021</span>
 </div>
