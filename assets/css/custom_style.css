@@ -81,16 +81,6 @@
   border-color: #007bb5;
 }
 
-.rounded-social-buttons .social-button.tiktok {
-  background: #000000;
-}
-
-.rounded-social-buttons .social-button.tiktok:hover,
-.rounded-social-buttons .social-button.tiktok:focus {
-  color: #000000;
-  background: #fefefe;
-  border-color: #000000;
-}
 
 .rounded-social-buttons .social-button.youtube {
   background: #bb0000;
@@ -114,16 +104,37 @@
   border-color: #125688;
 }
 
-.social-button.dev i {
+.rounded-social-buttons .social-button.dev {
+  background: #0A0A0A;
+}
+
+.rounded-social-buttons .social-button.dev:hover,
+.rounded-social-buttons .social-button.dev:focus {
   color: #0A0A0A;
+  background: #fefefe;
+  border-color: #0A0A0A;
 }
 
-.social-button.github {
+.rounded-social-buttons .social-button.github {
+  background: #181717;
+}
+
+.rounded-social-buttons .social-button.github:hover,
+.rounded-social-buttons .social-button.github:focus {
   color: #181717;
+  background: #fefefe;
+  border-color: #181717;
 }
 
-.social-button.stackoverflow  {
+.rounded-social-buttons .social-button.stackoverflow {
+  background: #F48024;
+}
+
+.rounded-social-buttons .social-button.stackoverflow:hover,
+.rounded-social-buttons .social-button.stackoverflow:focus {
   color: #F48024;
+  background: #fefefe;
+  border-color: #F48024;
 }
 
 /*.profile-picture {
