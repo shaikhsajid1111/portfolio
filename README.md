@@ -133,6 +133,8 @@ Whether you're looking to get honest feedback, share opinions, or simply learn f
 
 **Technologies**: Python, Django, SQLite, HTML, CSS, TypeScript and Bootstrap
 
+![Enquit](assets/enquit.png)
+
 ### Filereal
 [![Project Link](https://img.shields.io/badge/Project-Link-blue)](https://github.com/shaikhsajid1111/file-sharing-application)
 ![GitHub Repo stars](https://img.shields.io/github/stars/shaikhsajid1111/file-sharing-application?style=social)
@@ -143,4 +145,4 @@ Filereal’s intuitive interface and simple functionality make it accessible to 
 
 **Technologies**: Node, Express, MongoDB, Bootstrap and React
 
-![FileReal](https://i.imgur.com/Klu5r7O.jpg)
+![FileReal](assets/filerealjpg.jpg)
