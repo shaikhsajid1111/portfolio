@@ -4,7 +4,7 @@
 
 **Programming Languages:** Python, JavaScript, Java, TypeScript, SQL, C, C++, PHP, Golang
 
-**Cloud Platform:** AWS(Amazon Web Services), GCP(Google Cloud Platform)
+**Cloud Platform:** AWS (Amazon Web Services), GCP (Google Cloud Platform)
 
 **Data Engineering:** Apache Airflow, Apache Kafka, Apache Spark, Pandas, Numpy
 
