@@ -1,4 +1,4 @@
-# Software Engineer (Data & Backend)
+# Software Engineer (Full-Stack & Data Engineering)
 
 ## Skills
 
