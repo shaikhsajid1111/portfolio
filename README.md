@@ -23,7 +23,7 @@
 ## Education
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="assets/mu.jpeg" alt="Mumbai University" style="width: 30px; height: auto; margin-right: 5px;" />
+  <a href="https://mu.ac.in/" target="_blank"> <img src="assets/mu.jpeg" alt="Mumbai University" style="width: 30px; height: auto; margin-right: 5px;" /></a>
   <span>Bachelors of Science in Information Technology | University Of Mumbai (July 2019 - May 2022)</span>
 </div>
 
@@ -32,41 +32,36 @@
 ## Work Experience
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" />
+  <a href="https://www.findem.ai/" target="_blank"><img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>
   <strong>Software Engineer | Findem Inc. (May 2022 - Present)</strong>
 </div>
 
-- Contribute to backend development.
-- Design, deploy, and automate data pipelines for seamless data flow.
-- Develop robust data correlation and merging algorithms.
-- Create health checks, monitoring frameworks, and internal utility tools.
-- Parse and aggregate unstructured data efficiently.
-- Identify opportunities for data acquisition to enrich insights.
-- Explore methods to improve data quality and reliability.
-- Manage complex data workflows for efficient data processing.
+- Collaborate with the global Data Engineering and Science team to drive innovation and operational excellence in a People Intelligence Platform powered by AI and big data.
+- Contribute to building and scaling backend services, data pipelines, and workflows to ensure high-quality data acquisition, processing, and democratisation.
+- Play an active role in data strategy implementation, including designing and optimising ETL/ELT pipelines, enabling self-service data access, and supporting data lake architecture.
+- Collaborate with cross-functional teams to ensure data quality, observability, and efficient workflow management.
+- Partner with vendors, data providers, and technology solution teams to integrate external datasets and tools into the platform's architecture.
 
 **Skills Used:** Apache Airflow, Docker, AWS, GCP, MongoDB, Express, TypeScript, JavaScript, Python, Flask, Git, Selenium, Puppeteer
 
 <br>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" />
+  <a href="https://www.findem.ai/" target="_blank"><img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>
   <strong>Data Engineering Intern | Findem Inc. (May 2021 - May 2022)</strong>
 </div>
 
-- Develop algorithms to transform data into useful, actionable information.
-- Analyze and organize raw data.
-- Build algorithms and prototypes.
-- Explore ways to enhance data quality and reliability.
-- Identify opportunities for data acquisition.
-- Parsing unstructured data and aggregation.
+- Collaborated with the Data Engineering and Science team to enhance the People Intelligence Platform, gaining hands-on experience with real-world data systems.
+- Supported the development and optimization of data pipelines for processing large-scale datasets, ensuring data quality and consistency.
+- Gained experience in tools and technologies such as Python, Puppeteer, and Big Data frameworks to handle complex data workflows.
+- Conducted data cleaning, transformation, and exploratory analysis to improve data usability and quality.
 
 **Skills Used:** GCP, JavaScript, Python, Git, Selenium, Puppeteer
 
 <br>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <img src="assets/buildings.png" alt="Empty Logo" style="width: 30px; height: auto; margin-right: 10px;" />
+  <a href="https://github.com/nITech-ME" target="_blank"> <img src="assets/buildings.png" alt="Empty Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>
   <strong>Full-Stack Developer | NiTech (July 2020 - May 2021)</strong>
 </div>
 
@@ -83,11 +78,13 @@
   <strong>Program Manager Intern | Lantern Edusport Foundation (May 2020 - July 2020)</strong>
 </div>
 
-- Sharing learning material and tasks to students according to a monthly calendar.
-- Assess student work and identify areas for improvement.
-- Engaging with all students to make communication easy and transparent.
-- Producing accurate and timely reporting throughout the course of the program.
-- Analyzing program risks and communicating with the core team.
+ Lantern Edusport Foundation – A nonprofit organization dedicated to promoting education and sports among underserved communities.
+
+- Coordinated the distribution of learning materials and assigned tasks to students, adhering to a structured monthly calendar to ensure smooth program execution.
+- Assessed student submissions to identify areas for improvement and provided constructive feedback to support their academic and personal development.
+- Fostered open and transparent communication by actively engaging with students, addressing queries, and building a supportive learning environment.
+- Prepared and delivered accurate and timely reports to stakeholders, tracking progress and milestones throughout the program.
+- Conducted risk analysis for program activities, proactively identifying potential challenges and collaborating with the core team to implement effective solutions.
 
 **Skills Used:** Teaching, Communication, Problem Solving
 
