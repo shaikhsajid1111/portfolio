@@ -61,7 +61,7 @@
 <br>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://github.com/nITech-ME" target="_blank"> <img src="assets/buildings.png" alt="Empty Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>
+  <a href="https://github.com/nITech-ME" target="_blank"> <img src="assets/nitech_logo.png" alt="Empty Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>
   <strong>Full-Stack Developer | NiTech (July 2020 - May 2021)</strong>
 </div>
 
