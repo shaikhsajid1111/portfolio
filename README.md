@@ -30,10 +30,17 @@
 <br>
 
 ## Work Experience
-
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <a href="https://www.findem.ai/" target="_blank"><img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>
-  <strong>Software Engineer | Findem Inc. (May 2022 - Present)</strong>
+  <strong>Software Engineer 2 | Findem Inc. (Feb 2026 - Present)</strong>
+</div>
+
+**Skills Used:** Apache Airflow, Docker, AWS, GCP, MongoDB, Express, TypeScript, JavaScript, Python, Flask, Git, Selenium, Puppeteer, Design Patterns, System Design
+
+<br>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <a href="https://www.findem.ai/" target="_blank"><img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>
+  <strong>Software Engineer 1 - Data | Findem Inc. (May 2022 - an 2026)</strong>
 </div>
 
 - Collaborate with the global Data Engineering and Science team to drive innovation and operational excellence in a People Intelligence Platform powered by AI and big data.
