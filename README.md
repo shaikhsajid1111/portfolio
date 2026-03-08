@@ -40,7 +40,7 @@
 <br>
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <a href="https://www.findem.ai/" target="_blank"><img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>
-  <strong>Software Engineer 1 - Data | Findem Inc. (May 2022 - an 2026)</strong>
+  <strong>Software Engineer 1 - Data | Findem Inc. (May 2022 - Jan 2026)</strong>
 </div>
 
 - Collaborate with the global Data Engineering and Science team to drive innovation and operational excellence in a People Intelligence Platform powered by AI and big data.
