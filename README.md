@@ -32,7 +32,8 @@
 
 ## Work Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://www.findem.ai/" target="_blank"><img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>&nbsp;<strong> Software Engineer 2 - Data (Previously Data Engineering Intern & Software Engineer) | Findem Inc. (May 2021 - Present)</strong>
+  <a href="https://findem.ai" target="_blank"> <img src="/assets/findeminc_logo.jpeg" alt="Empty Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>&nbsp;&nbsp;
+  <strong>Software Engineer II (Previously Data Engineering Intern & Software Engineer) | Findem (May 2021 – Present)</strong>
 </div>
 
 - Led development and optimization of scalable data infrastructure and AI-driven ingestion workflows for
@@ -102,6 +103,7 @@ Designed and developed an AI-driven fraud detection and candidate verification s
 **Technologies**: Python, Large Language Model(LLM), NLP, Computer Vision, REST API. 
 
 ![Fraud Detection System](/assets/findem-fraud.webp)
+
 <br>
 
 ### AI Profile Verification System
@@ -112,6 +114,27 @@ Built an AI-assisted profile verification system to validate profile freshness, 
 **Technologies**: Python, NLP, REST API. 
 
 ![Fraud Detection System](/assets/findem-copilot.jpeg)
+
+<br>
+
+### Rate Limiter
+[![Project Link](https://img.shields.io/badge/Project-Link-blue)](https://github.com/shaikhsajid1111/rate-limiter)
+
+Developed a high-performance, distributed rate-limiting library for Node.js/Express, engineered to solve the "shared-state" challenge in clustered environments. By shifting logic from the application layer to the database, the system ensures consistent throttling across multiple server instances without sacrificing speed.
+
+Key Technical Achievements:
+
+<b>Architectural Design</b>: Leveraged the Strategy Pattern to create a backend-agnostic core, supporting both Redis (Sliding Window Log) and Memcached (Fixed Window) providers.
+
+<b>Atomic Operations</b>: Implemented Lua scripting in Redis to guarantee atomicity during high-concurrency bursts, successfully preventing race conditions and limit bypasses.
+
+<b>Performance Engineering</b>: Validated via k6 load testing, achieving a throughput of 4,600+ Requests Per Second with a stable p95 latency of 16ms.
+
+<b>Infrastructure & DevOps</b>: Containerized the entire ecosystem using Docker Compose, including the application, database cluster, and automated performance testing suite.
+
+**Technologies**: Redis, Node.js, TypeScript, Docker, Memcached.
+
+![Fraud Detection System](https://raw.githubusercontent.com/shaikhsajid1111/rate-limiter/refs/heads/main/rate-limiter-stats.png)
 
 <br>
 
