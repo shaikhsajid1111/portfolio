@@ -1,4 +1,4 @@
-# Software Engineer (Full-Stack & Data Engineering)
+# Software Engineer (Backend & Data Engineering)
 
 ## Skills
 
@@ -93,6 +93,18 @@ large-scale workflow orchestration.
 
 ## Projects
 
+### Applications Fraud Detection System
+[![Project Link](https://img.shields.io/badge/Project-Link-blue)](https://www.findem.ai/blog/introducing-authenticity-suite)
+
+Enquit is an anonymous social question and answer platform designed to foster open communication without compromising user privacy. On Enquit, users can freely ask and answer questions on any topic, whether it’s personal, professional, or just out of curiosity, all while maintaining complete anonymity. The platform provides a safe space for individuals to share their thoughts, seek advice, or engage in discussions without the fear of revealing their identity.
+
+Whether you're looking to get honest feedback, share opinions, or simply learn from the community, Enquit ensures your privacy is always protected. With its user-friendly interface and focus on confidentiality, Enquit is the ideal place for anyone seeking a judgment-free zone to ask questions, share knowledge, and connect with others.
+
+**Technologies**: Python, Large Language Model(LLM), NLP, Computer Vision, REST API. 
+
+![Enquit](https://cdn.prod.website-files.com/697b9f62844c4d2c0d43b0b3/69a9c400a95f3f80d4372e6f_68e67a81280d3f90f70dd3fe_Authenticity%2520Suite%2520Blog%2520Artwork%2520-%2520Hero%2520Artwork.webp)
+<br>
+
 ### Social Media Profile Scraper
 [![Project Link](https://img.shields.io/badge/Project-Link-blue)](https://github.com/shaikhsajid1111/social-media-profile-scrapers)
 ![GitHub Repo stars of Social Media Profile Scrapers](https://img.shields.io/github/stars/shaikhsajid1111/social-media-profile-scrapers?style=social)
@@ -136,35 +148,6 @@ Facebook Page scraper is maintained python library to extract post's data from t
 **Technologies**: Python, Selenium and Requests.
 
 ![Facebook Scraper](/assets/fb_scraper.jpeg)
-
-<br>
-
-### Enquit
-[![Project Link c](https://img.shields.io/badge/Project-Link-blue)](https://github.com/shaikhsajid1111/enquit)
-![GitHub Repo stars of Enquit](https://img.shields.io/github/stars/shaikhsajid1111/enquit?style=social)
-
-Enquit is an anonymous social question and answer platform designed to foster open communication without compromising user privacy. On Enquit, users can freely ask and answer questions on any topic, whether it’s personal, professional, or just out of curiosity, all while maintaining complete anonymity. The platform provides a safe space for individuals to share their thoughts, seek advice, or engage in discussions without the fear of revealing their identity.
-
-Whether you're looking to get honest feedback, share opinions, or simply learn from the community, Enquit ensures your privacy is always protected. With its user-friendly interface and focus on confidentiality, Enquit is the ideal place for anyone seeking a judgment-free zone to ask questions, share knowledge, and connect with others.
-
-**Technologies**: Python, Django, SQLite, HTML, CSS, TypeScript and Bootstrap
-
-![Enquit](assets/enquit.png)
-
-<br>
-
-### Filereal
-[![Project Link of Filereal](https://img.shields.io/badge/Project-Link-blue)](https://github.com/shaikhsajid1111/file-sharing-application)
-![GitHub Repo stars of Filereal](https://img.shields.io/github/stars/shaikhsajid1111/file-sharing-application?style=social)
-
-Filereal is a cutting-edge platform designed for seamless, anonymous file sharing. With Filereal, users can effortlessly upload and share up to 10 files every 30 minutes, without the need for registration or personal information. Whether you're collaborating on projects, sharing personal files, or distributing content, Filereal ensures that your privacy is maintained throughout the entire process. It’s perfect for anyone looking for a quick, secure, and easy way to share files with colleagues, friends, or online communities while keeping their identity completely anonymous.
-
-Filereal’s intuitive interface and simple functionality make it accessible to users of all levels, offering a robust solution for time-sensitive file sharing. Enjoy the freedom to share without constraints, all while maintaining top-tier security and privacy standards. With Filereal, sharing files has never been more efficient or secure!
-
-**Technologies**: Node, Express, MongoDB, Bootstrap and React
-
-![FileReal](assets/filerealjpg.jpg)
-
 <br>
 
 ## Certificates
