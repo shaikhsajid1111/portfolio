@@ -100,7 +100,7 @@ Designed and developed an AI-driven fraud detection and candidate verification s
 
 **Technologies**: Python, Large Language Model(LLM), NLP, Computer Vision, REST API. 
 
-![Fraud Detection System](https://cdn.prod.website-files.com/697b9f62844c4d2c0d43b0b3/69a9c400a95f3f80d4372e6f_68e67a81280d3f90f70dd3fe_Authenticity%2520Suite%2520Blog%2520Artwork%2520-%2520Hero%2520Artwork.webp)
+![Fraud Detection System](/assets/findem-fraud.webp)
 <br>
 
 ### AI Profile Verification System
@@ -111,6 +111,7 @@ Built an AI-assisted profile verification system to validate profile freshness, 
 **Technologies**: Python, NLP, REST API. 
 
 ![Fraud Detection System](/assets/findem-copilot.jpeg)
+
 <br>
 
 ### Social Media Profile Scraper
@@ -226,26 +227,6 @@ Facebook Page scraper is maintained python library to extract post's data from t
     </strong>
   </div>
   <span style="font-size: 0.9em; color: #777;">HackerRank - October 2020</span>
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="assets/udemy-icon.png" alt="Udemy Logo" style="width: 40px; height: auto; margin-right: 10px;" />
-    <strong>
-    <a style="font-size: 1.1em; color: #333;" href="https://www.udemy.com/certificate/UC-604674cf-15e9-4f0a-aa21-752999249984/" target="_blank">React JS- Complete Guide for Frontend Web Development [2022]</a>
-    </strong>
-  </div>
-  <span style="font-size: 0.9em; color: #777;">Udemy - September 2022</span>
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="assets/udemy-icon.png" alt="Udemy Logo" style="width: 40px; height: auto; margin-right: 10px;" />
-    <strong>
-    <a style="font-size: 1.1em; color: #333;" href="https://www.udemy.com/certificate/UC-d070f93f-2a06-4ded-8913-91bae72db62f/" target="_blank">Practical Web Development</a>
-    </strong>
-  </div>
-  <span style="font-size: 0.9em; color: #777;">Udemy - March 2021</span>
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px; padding: 15px;">
