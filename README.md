@@ -32,7 +32,7 @@
 
 ## Work Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://findem.ai" target="_blank"> <img src="/assets/findeminc_logo.jpeg" alt="Empty Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>&nbsp;&nbsp;
+  <a href="https://findem.ai" target="_blank"> <img src="assets/findeminc_logo.jpeg" alt="Empty Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>&nbsp;&nbsp;
   <strong>Software Engineer II (Previously Data Engineering Intern & Software Engineer) | Findem (May 2021 – Present)</strong>
 </div>
 
