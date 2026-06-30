@@ -32,39 +32,34 @@
 ## Work Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <a href="https://www.findem.ai/" target="_blank"><img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>
-  <strong>Software Engineer 2 | Findem Inc. (Feb 2026 - Present)</strong>
+  <strong>Software Engineer 2 - Data (Previously Data Engineering Intern & Software Engineer) | Findem Inc. (May 2021 - Present)</strong>
 </div>
+
+- Led development and optimization of scalable data infrastructure and AI-driven ingestion workflows for
+the People Intelligence Platform.
+- Built and scaled backend APIs, microservices, and large-scale ingestion pipelines processing 500M+
+vendor records and 600M+ profile updates for enterprise clients.
+- Developed 16+ automated data pipelines for profile ingestion and enrichment from platforms including
+Doximity, ArtStation, Twitter/X, and other public sources.
+- Built anomaly-detection pipelines leveraging AI to recreate and validate client search experiences,
+helping identify inconsistencies and data discrepancies.
+- Partnered with Product teams to build an AI-assisted fraud detection pipeline leveraging LLMs for
+anomaly and profile-risk analysis.
+- Contributed to AI-powered identity resolution services used to map and associate social media profiles
+with LinkedIn entities.
+- Built privacy automation APIs handling millions of opt-out and compliance-related requests, significantly
+reducing manual operational overhead.
+- Designed web crawlers, parsers, and workflow automation systems to improve large-scale data
+acquisition reliability and throughput.
+- Built and optimized internal ETL workflows to improve ingestion efficiency, monitoring, and data
+consistency.
+- Debugged and optimized complex multi-layer distributed systems and workflow pipelines to improve
+reliability, scalability, and operational performance.
+- Mentored and supported engineering initiatives around automation, data quality enforcement, and
+large-scale workflow orchestration.
+
 
 **Skills Used:** Apache Airflow, Docker, AWS, GCP, MongoDB, Express, TypeScript, JavaScript, Python, Flask, Git, Selenium, Puppeteer, Design Patterns, System Design
-
-<br>
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://www.findem.ai/" target="_blank"><img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>
-  <strong>Software Engineer 1 - Data | Findem Inc. (May 2022 - Jan 2026)</strong>
-</div>
-
-- Collaborate with the global Data Engineering and Science team to drive innovation and operational excellence in a People Intelligence Platform powered by AI and big data.
-- Contribute to building and scaling backend services, data pipelines, and workflows to ensure high-quality data acquisition, processing, and democratisation.
-- Play an active role in data strategy implementation, including designing and optimising ETL/ELT pipelines, enabling self-service data access, and supporting data lake architecture.
-- Collaborate with cross-functional teams to ensure data quality, observability, and efficient workflow management.
-- Partner with vendors, data providers, and technology solution teams to integrate external datasets and tools into the platform's architecture.
-
-**Skills Used:** Apache Airflow, Docker, AWS, GCP, MongoDB, Express, TypeScript, JavaScript, Python, Flask, Git, Selenium, Puppeteer
-
-<br>
-
-<div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://www.findem.ai/" target="_blank"><img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>
-  <strong>Data Engineering Intern | Findem Inc. (May 2021 - May 2022)</strong>
-</div>
-
-- Collaborated with the Data Engineering and Science team to enhance the People Intelligence Platform, gaining hands-on experience with real-world data systems.
-- Supported the development and optimization of data pipelines for processing large-scale datasets, ensuring data quality and consistency.
-- Gained experience in tools and technologies such as Python, Puppeteer, and Big Data frameworks to handle complex data workflows.
-- Conducted data cleaning, transformation, and exploratory analysis to improve data usability and quality.
-
-**Skills Used:** GCP, JavaScript, Python, Git, Selenium, Puppeteer
-
 <br>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
