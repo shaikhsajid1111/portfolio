@@ -18,6 +18,7 @@
 
 **Automation & Web Scraping:** Selenium, Puppeteer
 
+**Artificial Intelligence:** Large Language Model, Natural Language Processing, Computer Vision.
 <br>
 
 ## Education
