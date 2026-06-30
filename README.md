@@ -31,8 +31,7 @@
 
 ## Work Experience
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <a href="https://www.findem.ai/" target="_blank"><img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>
-  <strong>Software Engineer 2 - Data (Previously Data Engineering Intern & Software Engineer) | Findem Inc. (May 2021 - Present)</strong>
+  <a href="https://www.findem.ai/" target="_blank"><img src="assets/findeminc_logo.jpeg" alt="Findem Logo" style="width: 30px; height: auto; margin-right: 10px;" /></a>&nbsp;<strong> Software Engineer 2 - Data (Previously Data Engineering Intern & Software Engineer) | Findem Inc. (May 2021 - Present)</strong>
 </div>
 
 - Led development and optimization of scalable data infrastructure and AI-driven ingestion workflows for
