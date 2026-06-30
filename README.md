@@ -96,13 +96,21 @@ large-scale workflow orchestration.
 ### Applications Fraud Detection System
 [![Project Link](https://img.shields.io/badge/Project-Link-blue)](https://www.findem.ai/blog/introducing-authenticity-suite)
 
-Enquit is an anonymous social question and answer platform designed to foster open communication without compromising user privacy. On Enquit, users can freely ask and answer questions on any topic, whether it’s personal, professional, or just out of curiosity, all while maintaining complete anonymity. The platform provides a safe space for individuals to share their thoughts, seek advice, or engage in discussions without the fear of revealing their identity.
-
-Whether you're looking to get honest feedback, share opinions, or simply learn from the community, Enquit ensures your privacy is always protected. With its user-friendly interface and focus on confidentiality, Enquit is the ideal place for anyone seeking a judgment-free zone to ask questions, share knowledge, and connect with others.
+Designed and developed an AI-driven fraud detection and candidate verification system to identify suspicious profiles at scale. Built data ingestion and enrichment pipelines to aggregate candidate information from multiple public sources. Leveraged Large Language Models (LLMs) for resume analysis and anomaly detection, and developed machine learning models for profile image validation and career progression plausibility checks. Applied heuristic-based filtering, automated classification, and validation workflows to improve detection accuracy, reduce false positives, and enhance profile verification reliability across large-scale candidate datasets.
 
 **Technologies**: Python, Large Language Model(LLM), NLP, Computer Vision, REST API. 
 
-![Enquit](https://cdn.prod.website-files.com/697b9f62844c4d2c0d43b0b3/69a9c400a95f3f80d4372e6f_68e67a81280d3f90f70dd3fe_Authenticity%2520Suite%2520Blog%2520Artwork%2520-%2520Hero%2520Artwork.webp)
+![Fraud Detection System](https://cdn.prod.website-files.com/697b9f62844c4d2c0d43b0b3/69a9c400a95f3f80d4372e6f_68e67a81280d3f90f70dd3fe_Authenticity%2520Suite%2520Blog%2520Artwork%2520-%2520Hero%2520Artwork.webp)
+<br>
+
+### AI Profile Verification System
+[![Project Link](https://img.shields.io/badge/Project-Link-blue)](https://www.findem.ai/products/copilot-sourcing)
+
+Built an AI-assisted profile verification system to validate profile freshness, identity accuracy, and email ownership across large-scale datasets. Developed automated verification workflows using pre-trained AI models and heuristic-based matching techniques to assess profile authenticity and confidence scores. Implemented entity matching and validation logic to improve verification reliability, reduce manual review effort, and enhance data quality across high-volume profile processing pipelines.
+
+**Technologies**: Python, NLP, REST API. 
+
+![Fraud Detection System](/assets/findem-copilot.jpeg)
 <br>
 
 ### Social Media Profile Scraper
